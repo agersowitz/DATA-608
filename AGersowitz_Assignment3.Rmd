@@ -1,0 +1,122 @@
+---
+title: "DATA 608 Assignment 3"
+author: "Adam Gersowitz"
+date: "3/13/2021"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Packages and Importing the Data
+
+```{r , message= FALSE}
+library(shiny)
+library(readr)
+library(plotly)
+library(vegalite)
+library(skimr)
+library(kableExtra)
+library(dplyr)
+
+df <- read_csv("https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module3/data/cleaned-cdc-mortality-1999-2010-2.csv")
+df <- data.frame(df)
+
+skim(df)
+```
+
+## Question 1
+
+As a researcher, you frequently compare mortality rates from particular causes across different States. You need a visualization that will let you see (for 2010 only) the crude mortality rate, across all States, from one cause (for example, Neoplasms, which are effectively cancers). Create a visualization that allows you to rank States by crude mortality for each cause of death.
+
+```{r , message= FALSE}
+
+
+df1<-filter(df, Year == "2010")
+
+unique(df1[1])%>%
+  kbl(caption = "Causes of Death in 2010") %>%
+  kable_classic(full_width = F, html_font = "Cambria")%>%
+  kable_styling(latex_options = "HOLD_position")
+
+
+
+```
+
+```{r , message= FALSE}
+
+
+ui <- fluidPage(
+  selectInput(inputId = "Cause", 
+    label = "Choose a Cause of Death", 
+    df1$ICD.Chapter),
+    plotlyOutput("plot")
+)
+
+server <- function(input, output) {
+  output$plot <- renderPlotly({
+    
+
+    plot_ly(filter(df1, ICD.Chapter == input$Cause), x = ~State, y = ~Crude.Rate, type = 'bar') %>% 
+  layout(title = paste0('2010 Crude Mortality Rate Ranked by State for:\n',input$Cause),
+         xaxis = list(showgrid = FALSE, categoryorder = "total descending"),
+         yaxis = list(showgrid = FALSE, title = "Crude Mortality Rate"))
+    
+  })
+}
+
+shinyApp(ui=ui, server=server)
+
+
+
+```
+
+## Question 2:
+
+Often you are asked whether particular States are improving their mortality rates (per cause) faster than, or slower than, the national average. Create a visualization that lets your clients see this for themselves for one cause of death at the time. Keep in mind that the national average should be weighted by the national population.
+
+```{r , message= FALSE}
+
+df2<-df %>% 
+  group_by(ICD.Chapter, Year) %>% 
+  summarise(Population= sum(Population),Deaths= sum(Deaths))
+
+df2$Crude.Rate<-round((df2$Deaths/df2$Population)*100000,1)
+
+
+
+ui <- fluidPage(
+  selectInput(inputId = "Cause", 
+    label = "Choose a Cause of Death", 
+    df$ICD.Chapter),
+    plotlyOutput("plot"),
+  selectInput(inputId = "State", 
+    label = "Choose a State", 
+    df$State,
+    plotlyOutput("plotst")
+))
+
+server <- function(input, output) {
+  output$plot <- renderPlotly({
+    
+
+    plot_ly(filter(df, ICD.Chapter == input$Cause & State == input$State), x = ~Year, y = ~Crude.Rate, name = ~State, type = 'scatter',mode="lines") %>% 
+    layout(title = paste0('Crude Mortality Rate Over Time for:\n',input$Cause,' in ',input$State),
+         xaxis = list(showgrid = FALSE, categoryorder = "total ascending"),
+         yaxis = list(showgrid = FALSE, title = "Crude Mortality Rate"),
+         legend= list(showgrid = FALSE))%>% 
+        add_lines(data=filter(df2, ICD.Chapter == input$Cause),name="Naitonal Average",x=~Year,y=~Crude.Rate)
+    
+  })
+}
+
+shinyApp(ui=ui, server=server)
+
+
+
+```
+
+
+
