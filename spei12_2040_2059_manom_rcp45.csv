@@ -1,0 +1,2033 @@
+Mean Drought Index - (SPEI), Year, Model, Statistics, ISO3
+-0.4971, 2040-2059, access1_3, Annual Anomaly, AFG
+-1.4711, 2040-2059, bcc_csm1_1_m, Annual Anomaly, AFG
+-1.1464, 2040-2059, bcc_csm1_1, Annual Anomaly, AFG
+-0.5167, 2040-2059, bnu_esm, Annual Anomaly, AFG
+-0.5672, 2040-2059, canesm2, Annual Anomaly, AFG
+-0.5329, 2040-2059, ccsm4, Annual Anomaly, AFG
+-0.6291, 2040-2059, cesm1_bgc, Annual Anomaly, AFG
+-0.521, 2040-2059, cesm1_cam5, Annual Anomaly, AFG
+-0.4698, 2040-2059, cnrm_cm5, Annual Anomaly, AFG
+-1.9572, 2040-2059, csiro_mk3_6_0, Annual Anomaly, AFG
+-0.9405, 2040-2059, gfdl_cm3, Annual Anomaly, AFG
+-1.2325, 2040-2059, gfdl_esm2g, Annual Anomaly, AFG
+-0.5043, 2040-2059, gfdl_esm2m, Annual Anomaly, AFG
+-0.1534, 2040-2059, inmcm4, Annual Anomaly, AFG
+-1.9687, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, AFG
+-2.2672, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, AFG
+-1.4654, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, AFG
+-1.1319, 2040-2059, miroc5, Annual Anomaly, AFG
+-0.7878, 2040-2059, miroc_esm_chem, Annual Anomaly, AFG
+-1.0981, 2040-2059, miroc_esm, Annual Anomaly, AFG
+-0.715, 2040-2059, mpi_esm_mr, Annual Anomaly, AFG
+-0.0912, 2040-2059, mri_cgcm3, Annual Anomaly, AFG
+-1.1253, 2040-2059, noresm1_m, Annual Anomaly, AFG
+-0.7793, 2040-2059, access1_3, Annual Anomaly, ALB
+-0.5603, 2040-2059, bcc_csm1_1_m, Annual Anomaly, ALB
+-0.8925, 2040-2059, bcc_csm1_1, Annual Anomaly, ALB
+-0.9658, 2040-2059, bnu_esm, Annual Anomaly, ALB
+-1.0026, 2040-2059, canesm2, Annual Anomaly, ALB
+-1.0282, 2040-2059, ccsm4, Annual Anomaly, ALB
+-0.4909, 2040-2059, cesm1_bgc, Annual Anomaly, ALB
+-0.1612, 2040-2059, cesm1_cam5, Annual Anomaly, ALB
+-0.2576, 2040-2059, cnrm_cm5, Annual Anomaly, ALB
+-1.7785, 2040-2059, csiro_mk3_6_0, Annual Anomaly, ALB
+-1.7739, 2040-2059, gfdl_cm3, Annual Anomaly, ALB
+-0.2585, 2040-2059, gfdl_esm2g, Annual Anomaly, ALB
+-0.7631, 2040-2059, gfdl_esm2m, Annual Anomaly, ALB
+-0.8507, 2040-2059, inmcm4, Annual Anomaly, ALB
+-0.541, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, ALB
+-0.9783, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, ALB
+-0.3244, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, ALB
+-0.9216, 2040-2059, miroc5, Annual Anomaly, ALB
+-1.7043, 2040-2059, miroc_esm_chem, Annual Anomaly, ALB
+-1.5129, 2040-2059, miroc_esm, Annual Anomaly, ALB
+-0.2857, 2040-2059, mpi_esm_mr, Annual Anomaly, ALB
+-0.0971, 2040-2059, mri_cgcm3, Annual Anomaly, ALB
+-1.0106, 2040-2059, noresm1_m, Annual Anomaly, ALB
+-0.0189, 2040-2059, access1_3, Annual Anomaly, AGO
+-1.0364, 2040-2059, bcc_csm1_1_m, Annual Anomaly, AGO
+-0.1691, 2040-2059, bcc_csm1_1, Annual Anomaly, AGO
+-0.175, 2040-2059, bnu_esm, Annual Anomaly, AGO
+-0.8595, 2040-2059, canesm2, Annual Anomaly, AGO
+-0.1181, 2040-2059, ccsm4, Annual Anomaly, AGO
+-0.6847, 2040-2059, cesm1_bgc, Annual Anomaly, AGO
+0.02423, 2040-2059, cesm1_cam5, Annual Anomaly, AGO
+-0.0521, 2040-2059, cnrm_cm5, Annual Anomaly, AGO
+-1.3619, 2040-2059, csiro_mk3_6_0, Annual Anomaly, AGO
+-0.797, 2040-2059, gfdl_cm3, Annual Anomaly, AGO
+-0.2224, 2040-2059, gfdl_esm2g, Annual Anomaly, AGO
+-0.3097, 2040-2059, gfdl_esm2m, Annual Anomaly, AGO
+0.15104, 2040-2059, inmcm4, Annual Anomaly, AGO
+0.10655, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, AGO
+-0.8408, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, AGO
+-0.0181, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, AGO
+0.09749, 2040-2059, miroc5, Annual Anomaly, AGO
+-0.4627, 2040-2059, miroc_esm_chem, Annual Anomaly, AGO
+-0.2992, 2040-2059, miroc_esm, Annual Anomaly, AGO
+-0.235, 2040-2059, mpi_esm_mr, Annual Anomaly, AGO
+-0.1188, 2040-2059, mri_cgcm3, Annual Anomaly, AGO
+-0.4959, 2040-2059, noresm1_m, Annual Anomaly, AGO
+-0.0907, 2040-2059, access1_3, Annual Anomaly, ARG
+-0.4119, 2040-2059, bcc_csm1_1_m, Annual Anomaly, ARG
+-0.4414, 2040-2059, bcc_csm1_1, Annual Anomaly, ARG
+-0.281, 2040-2059, bnu_esm, Annual Anomaly, ARG
+-0.607, 2040-2059, canesm2, Annual Anomaly, ARG
+-0.381, 2040-2059, ccsm4, Annual Anomaly, ARG
+0.11168, 2040-2059, cesm1_bgc, Annual Anomaly, ARG
+-0.4749, 2040-2059, cesm1_cam5, Annual Anomaly, ARG
+-0.1435, 2040-2059, cnrm_cm5, Annual Anomaly, ARG
+-0.0771, 2040-2059, csiro_mk3_6_0, Annual Anomaly, ARG
+-0.8597, 2040-2059, gfdl_cm3, Annual Anomaly, ARG
+-0.9003, 2040-2059, gfdl_esm2g, Annual Anomaly, ARG
+-0.6993, 2040-2059, gfdl_esm2m, Annual Anomaly, ARG
+-0.1327, 2040-2059, inmcm4, Annual Anomaly, ARG
+-1.3945, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, ARG
+-0.7671, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, ARG
+-0.3736, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, ARG
+-0.5556, 2040-2059, miroc5, Annual Anomaly, ARG
+-0.5203, 2040-2059, miroc_esm_chem, Annual Anomaly, ARG
+-0.8183, 2040-2059, miroc_esm, Annual Anomaly, ARG
+-0.5906, 2040-2059, mpi_esm_mr, Annual Anomaly, ARG
+0.0551, 2040-2059, mri_cgcm3, Annual Anomaly, ARG
+-0.4507, 2040-2059, noresm1_m, Annual Anomaly, ARG
+-0.9183, 2040-2059, access1_3, Annual Anomaly, AUS
+-0.41, 2040-2059, bcc_csm1_1_m, Annual Anomaly, AUS
+-0.4313, 2040-2059, bcc_csm1_1, Annual Anomaly, AUS
+-0.2255, 2040-2059, bnu_esm, Annual Anomaly, AUS
+-0.5771, 2040-2059, canesm2, Annual Anomaly, AUS
+-0.3077, 2040-2059, ccsm4, Annual Anomaly, AUS
+-0.3592, 2040-2059, cesm1_bgc, Annual Anomaly, AUS
+-0.4711, 2040-2059, cesm1_cam5, Annual Anomaly, AUS
+-0.066, 2040-2059, cnrm_cm5, Annual Anomaly, AUS
+-1.1606, 2040-2059, csiro_mk3_6_0, Annual Anomaly, AUS
+-1.0435, 2040-2059, gfdl_cm3, Annual Anomaly, AUS
+-0.3911, 2040-2059, gfdl_esm2g, Annual Anomaly, AUS
+-0.3943, 2040-2059, gfdl_esm2m, Annual Anomaly, AUS
+-0.0424, 2040-2059, inmcm4, Annual Anomaly, AUS
+-1.4756, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, AUS
+-1.0424, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, AUS
+-0.6852, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, AUS
+0.14136, 2040-2059, miroc5, Annual Anomaly, AUS
+-0.2881, 2040-2059, miroc_esm_chem, Annual Anomaly, AUS
+0.01938, 2040-2059, miroc_esm, Annual Anomaly, AUS
+-0.932, 2040-2059, mpi_esm_mr, Annual Anomaly, AUS
+-0.1198, 2040-2059, mri_cgcm3, Annual Anomaly, AUS
+-0.0112, 2040-2059, noresm1_m, Annual Anomaly, AUS
+-0.3935, 2040-2059, access1_3, Annual Anomaly, AZE
+-0.7337, 2040-2059, bcc_csm1_1_m, Annual Anomaly, AZE
+-0.9795, 2040-2059, bcc_csm1_1, Annual Anomaly, AZE
+-0.49, 2040-2059, bnu_esm, Annual Anomaly, AZE
+-1.3245, 2040-2059, canesm2, Annual Anomaly, AZE
+-0.5644, 2040-2059, ccsm4, Annual Anomaly, AZE
+-0.8434, 2040-2059, cesm1_bgc, Annual Anomaly, AZE
+-0.4436, 2040-2059, cesm1_cam5, Annual Anomaly, AZE
+0.11214, 2040-2059, cnrm_cm5, Annual Anomaly, AZE
+-1.3609, 2040-2059, csiro_mk3_6_0, Annual Anomaly, AZE
+-1.0326, 2040-2059, gfdl_cm3, Annual Anomaly, AZE
+-0.9822, 2040-2059, gfdl_esm2g, Annual Anomaly, AZE
+-0.2701, 2040-2059, gfdl_esm2m, Annual Anomaly, AZE
+-0.3745, 2040-2059, inmcm4, Annual Anomaly, AZE
+-0.9102, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, AZE
+-1.9116, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, AZE
+-1.1005, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, AZE
+-0.4956, 2040-2059, miroc5, Annual Anomaly, AZE
+-0.9228, 2040-2059, miroc_esm_chem, Annual Anomaly, AZE
+-1.0355, 2040-2059, miroc_esm, Annual Anomaly, AZE
+-0.5901, 2040-2059, mpi_esm_mr, Annual Anomaly, AZE
+0.02984, 2040-2059, mri_cgcm3, Annual Anomaly, AZE
+-0.6201, 2040-2059, noresm1_m, Annual Anomaly, AZE
+-1.716, 2040-2059, access1_3, Annual Anomaly, BRB
+-0.6972, 2040-2059, bcc_csm1_1_m, Annual Anomaly, BRB
+-0.8545, 2040-2059, bcc_csm1_1, Annual Anomaly, BRB
+-1.2115, 2040-2059, bnu_esm, Annual Anomaly, BRB
+-1.1971, 2040-2059, canesm2, Annual Anomaly, BRB
+-1.1357, 2040-2059, ccsm4, Annual Anomaly, BRB
+-1.472, 2040-2059, cesm1_bgc, Annual Anomaly, BRB
+-1.2397, 2040-2059, cesm1_cam5, Annual Anomaly, BRB
+-0.3303, 2040-2059, cnrm_cm5, Annual Anomaly, BRB
+0.35881, 2040-2059, csiro_mk3_6_0, Annual Anomaly, BRB
+-0.394, 2040-2059, gfdl_cm3, Annual Anomaly, BRB
+-0.2849, 2040-2059, gfdl_esm2g, Annual Anomaly, BRB
+0.12367, 2040-2059, gfdl_esm2m, Annual Anomaly, BRB
+-1.0855, 2040-2059, inmcm4, Annual Anomaly, BRB
+-0.9125, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, BRB
+-1.4361, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, BRB
+-0.1149, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, BRB
+-0.6821, 2040-2059, miroc5, Annual Anomaly, BRB
+0.03918, 2040-2059, miroc_esm_chem, Annual Anomaly, BRB
+0.12279, 2040-2059, miroc_esm, Annual Anomaly, BRB
+-0.7311, 2040-2059, mpi_esm_mr, Annual Anomaly, BRB
+-0.0235, 2040-2059, mri_cgcm3, Annual Anomaly, BRB
+-0.1205, 2040-2059, noresm1_m, Annual Anomaly, BRB
+-0.1484, 2040-2059, access1_3, Annual Anomaly, BLR
+0.41723, 2040-2059, bcc_csm1_1_m, Annual Anomaly, BLR
+-0.5341, 2040-2059, bcc_csm1_1, Annual Anomaly, BLR
+-0.3998, 2040-2059, bnu_esm, Annual Anomaly, BLR
+0.20907, 2040-2059, canesm2, Annual Anomaly, BLR
+-0.6291, 2040-2059, ccsm4, Annual Anomaly, BLR
+-0.5111, 2040-2059, cesm1_bgc, Annual Anomaly, BLR
+-0.5525, 2040-2059, cesm1_cam5, Annual Anomaly, BLR
+0.19489, 2040-2059, cnrm_cm5, Annual Anomaly, BLR
+0.05768, 2040-2059, csiro_mk3_6_0, Annual Anomaly, BLR
+-0.0765, 2040-2059, gfdl_cm3, Annual Anomaly, BLR
+0.15145, 2040-2059, gfdl_esm2g, Annual Anomaly, BLR
+0.24319, 2040-2059, gfdl_esm2m, Annual Anomaly, BLR
+0.26436, 2040-2059, inmcm4, Annual Anomaly, BLR
+0.28629, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, BLR
+-0.3049, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, BLR
+0.05308, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, BLR
+-0.9735, 2040-2059, miroc5, Annual Anomaly, BLR
+-0.5293, 2040-2059, miroc_esm_chem, Annual Anomaly, BLR
+0.25072, 2040-2059, miroc_esm, Annual Anomaly, BLR
+0.05942, 2040-2059, mpi_esm_mr, Annual Anomaly, BLR
+0.05164, 2040-2059, mri_cgcm3, Annual Anomaly, BLR
+-0.2268, 2040-2059, noresm1_m, Annual Anomaly, BLR
+-0.1576, 2040-2059, access1_3, Annual Anomaly, BOL
+-0.3334, 2040-2059, bcc_csm1_1_m, Annual Anomaly, BOL
+-0.1411, 2040-2059, bcc_csm1_1, Annual Anomaly, BOL
+-0.7316, 2040-2059, bnu_esm, Annual Anomaly, BOL
+-1.3707, 2040-2059, canesm2, Annual Anomaly, BOL
+-0.2914, 2040-2059, ccsm4, Annual Anomaly, BOL
+-0.4407, 2040-2059, cesm1_bgc, Annual Anomaly, BOL
+-0.6732, 2040-2059, cesm1_cam5, Annual Anomaly, BOL
+0.06067, 2040-2059, cnrm_cm5, Annual Anomaly, BOL
+-0.6796, 2040-2059, csiro_mk3_6_0, Annual Anomaly, BOL
+-1.7407, 2040-2059, gfdl_cm3, Annual Anomaly, BOL
+-0.5236, 2040-2059, gfdl_esm2g, Annual Anomaly, BOL
+-0.3544, 2040-2059, gfdl_esm2m, Annual Anomaly, BOL
+0.26335, 2040-2059, inmcm4, Annual Anomaly, BOL
+-1.0823, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, BOL
+-0.8197, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, BOL
+-0.7965, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, BOL
+0.29997, 2040-2059, miroc5, Annual Anomaly, BOL
+-0.9245, 2040-2059, miroc_esm_chem, Annual Anomaly, BOL
+-1.3743, 2040-2059, miroc_esm, Annual Anomaly, BOL
+-0.3789, 2040-2059, mpi_esm_mr, Annual Anomaly, BOL
+0.01369, 2040-2059, mri_cgcm3, Annual Anomaly, BOL
+-0.4114, 2040-2059, noresm1_m, Annual Anomaly, BOL
+-0.7286, 2040-2059, access1_3, Annual Anomaly, BIH
+-0.447, 2040-2059, bcc_csm1_1_m, Annual Anomaly, BIH
+-0.5879, 2040-2059, bcc_csm1_1, Annual Anomaly, BIH
+-0.9415, 2040-2059, bnu_esm, Annual Anomaly, BIH
+-0.7295, 2040-2059, canesm2, Annual Anomaly, BIH
+-1.1036, 2040-2059, ccsm4, Annual Anomaly, BIH
+-0.5147, 2040-2059, cesm1_bgc, Annual Anomaly, BIH
+0.04081, 2040-2059, cesm1_cam5, Annual Anomaly, BIH
+-0.2119, 2040-2059, cnrm_cm5, Annual Anomaly, BIH
+-0.9155, 2040-2059, csiro_mk3_6_0, Annual Anomaly, BIH
+-1.6727, 2040-2059, gfdl_cm3, Annual Anomaly, BIH
+-0.1476, 2040-2059, gfdl_esm2g, Annual Anomaly, BIH
+-0.7294, 2040-2059, gfdl_esm2m, Annual Anomaly, BIH
+-0.9798, 2040-2059, inmcm4, Annual Anomaly, BIH
+-0.3299, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, BIH
+-0.8732, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, BIH
+0.04846, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, BIH
+-1.2746, 2040-2059, miroc5, Annual Anomaly, BIH
+-1.0039, 2040-2059, miroc_esm_chem, Annual Anomaly, BIH
+-0.5735, 2040-2059, miroc_esm, Annual Anomaly, BIH
+-0.5583, 2040-2059, mpi_esm_mr, Annual Anomaly, BIH
+0.25789, 2040-2059, mri_cgcm3, Annual Anomaly, BIH
+-0.765, 2040-2059, noresm1_m, Annual Anomaly, BIH
+-0.4575, 2040-2059, access1_3, Annual Anomaly, BWA
+-1.6123, 2040-2059, bcc_csm1_1_m, Annual Anomaly, BWA
+-0.8074, 2040-2059, bcc_csm1_1, Annual Anomaly, BWA
+-0.8811, 2040-2059, bnu_esm, Annual Anomaly, BWA
+-1.3623, 2040-2059, canesm2, Annual Anomaly, BWA
+-0.3756, 2040-2059, ccsm4, Annual Anomaly, BWA
+-0.7659, 2040-2059, cesm1_bgc, Annual Anomaly, BWA
+-1.3788, 2040-2059, cesm1_cam5, Annual Anomaly, BWA
+-0.2975, 2040-2059, cnrm_cm5, Annual Anomaly, BWA
+-0.9182, 2040-2059, csiro_mk3_6_0, Annual Anomaly, BWA
+-0.9351, 2040-2059, gfdl_cm3, Annual Anomaly, BWA
+-0.3165, 2040-2059, gfdl_esm2g, Annual Anomaly, BWA
+-0.1461, 2040-2059, gfdl_esm2m, Annual Anomaly, BWA
+-0.3864, 2040-2059, inmcm4, Annual Anomaly, BWA
+-0.2547, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, BWA
+-0.8659, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, BWA
+-1.2087, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, BWA
+-0.2299, 2040-2059, miroc5, Annual Anomaly, BWA
+-0.9432, 2040-2059, miroc_esm_chem, Annual Anomaly, BWA
+-0.9401, 2040-2059, miroc_esm, Annual Anomaly, BWA
+-0.7498, 2040-2059, mpi_esm_mr, Annual Anomaly, BWA
+-0.8481, 2040-2059, mri_cgcm3, Annual Anomaly, BWA
+-0.4325, 2040-2059, noresm1_m, Annual Anomaly, BWA
+0.54628, 2040-2059, access1_3, Annual Anomaly, BRN
+-0.1701, 2040-2059, bcc_csm1_1_m, Annual Anomaly, BRN
+-0.0063, 2040-2059, bcc_csm1_1, Annual Anomaly, BRN
+0.34513, 2040-2059, bnu_esm, Annual Anomaly, BRN
+-0.1294, 2040-2059, canesm2, Annual Anomaly, BRN
+0.3966, 2040-2059, ccsm4, Annual Anomaly, BRN
+0.21437, 2040-2059, cesm1_bgc, Annual Anomaly, BRN
+0.48104, 2040-2059, cesm1_cam5, Annual Anomaly, BRN
+-0.0658, 2040-2059, cnrm_cm5, Annual Anomaly, BRN
+0.01745, 2040-2059, csiro_mk3_6_0, Annual Anomaly, BRN
+0.32686, 2040-2059, gfdl_cm3, Annual Anomaly, BRN
+-0.4019, 2040-2059, gfdl_esm2g, Annual Anomaly, BRN
+0.15907, 2040-2059, gfdl_esm2m, Annual Anomaly, BRN
+0.9721, 2040-2059, inmcm4, Annual Anomaly, BRN
+0.87951, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, BRN
+1.1178, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, BRN
+-0.1721, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, BRN
+1.52711, 2040-2059, miroc5, Annual Anomaly, BRN
+0.74505, 2040-2059, miroc_esm_chem, Annual Anomaly, BRN
+-0.5213, 2040-2059, miroc_esm, Annual Anomaly, BRN
+0.15716, 2040-2059, mpi_esm_mr, Annual Anomaly, BRN
+0.22287, 2040-2059, mri_cgcm3, Annual Anomaly, BRN
+0.80604, 2040-2059, noresm1_m, Annual Anomaly, BRN
+-0.3012, 2040-2059, access1_3, Annual Anomaly, BFA
+-0.9459, 2040-2059, bcc_csm1_1_m, Annual Anomaly, BFA
+-0.5331, 2040-2059, bcc_csm1_1, Annual Anomaly, BFA
+0.90965, 2040-2059, bnu_esm, Annual Anomaly, BFA
+-0.9329, 2040-2059, canesm2, Annual Anomaly, BFA
+0.2201, 2040-2059, ccsm4, Annual Anomaly, BFA
+-0.6916, 2040-2059, cesm1_bgc, Annual Anomaly, BFA
+-1.2653, 2040-2059, cesm1_cam5, Annual Anomaly, BFA
+0.05462, 2040-2059, cnrm_cm5, Annual Anomaly, BFA
+-0.4671, 2040-2059, csiro_mk3_6_0, Annual Anomaly, BFA
+-0.2906, 2040-2059, gfdl_cm3, Annual Anomaly, BFA
+0.3369, 2040-2059, gfdl_esm2g, Annual Anomaly, BFA
+-0.0831, 2040-2059, gfdl_esm2m, Annual Anomaly, BFA
+-0.0391, 2040-2059, inmcm4, Annual Anomaly, BFA
+0.10019, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, BFA
+-0.8375, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, BFA
+-0.167, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, BFA
+-0.1273, 2040-2059, miroc5, Annual Anomaly, BFA
+0.57229, 2040-2059, miroc_esm_chem, Annual Anomaly, BFA
+0.7995, 2040-2059, miroc_esm, Annual Anomaly, BFA
+-0.8058, 2040-2059, mpi_esm_mr, Annual Anomaly, BFA
+-0.8559, 2040-2059, mri_cgcm3, Annual Anomaly, BFA
+0.47086, 2040-2059, noresm1_m, Annual Anomaly, BFA
+0.40731, 2040-2059, access1_3, Annual Anomaly, CMR
+-0.3006, 2040-2059, bcc_csm1_1_m, Annual Anomaly, CMR
+0.46206, 2040-2059, bcc_csm1_1, Annual Anomaly, CMR
+-0.3945, 2040-2059, bnu_esm, Annual Anomaly, CMR
+-0.7466, 2040-2059, canesm2, Annual Anomaly, CMR
+0.23251, 2040-2059, ccsm4, Annual Anomaly, CMR
+0.51329, 2040-2059, cesm1_bgc, Annual Anomaly, CMR
+-0.1187, 2040-2059, cesm1_cam5, Annual Anomaly, CMR
+0.50366, 2040-2059, cnrm_cm5, Annual Anomaly, CMR
+-1.1604, 2040-2059, csiro_mk3_6_0, Annual Anomaly, CMR
+-0.121, 2040-2059, gfdl_cm3, Annual Anomaly, CMR
+0.34591, 2040-2059, gfdl_esm2g, Annual Anomaly, CMR
+-0.0031, 2040-2059, gfdl_esm2m, Annual Anomaly, CMR
+-0.4171, 2040-2059, inmcm4, Annual Anomaly, CMR
+0.27916, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, CMR
+0.0363, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, CMR
+0.00259, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, CMR
+0.06028, 2040-2059, miroc5, Annual Anomaly, CMR
+-0.6784, 2040-2059, miroc_esm_chem, Annual Anomaly, CMR
+-0.2043, 2040-2059, miroc_esm, Annual Anomaly, CMR
+0.43749, 2040-2059, mpi_esm_mr, Annual Anomaly, CMR
+0.20971, 2040-2059, mri_cgcm3, Annual Anomaly, CMR
+0.07008, 2040-2059, noresm1_m, Annual Anomaly, CMR
+0.10107, 2040-2059, access1_3, Annual Anomaly, CAN
+0.21786, 2040-2059, bcc_csm1_1_m, Annual Anomaly, CAN
+0.53827, 2040-2059, bcc_csm1_1, Annual Anomaly, CAN
+-0.0754, 2040-2059, bnu_esm, Annual Anomaly, CAN
+0.15762, 2040-2059, canesm2, Annual Anomaly, CAN
+0.0831, 2040-2059, ccsm4, Annual Anomaly, CAN
+0.00472, 2040-2059, cesm1_bgc, Annual Anomaly, CAN
+0.07031, 2040-2059, cesm1_cam5, Annual Anomaly, CAN
+0.17227, 2040-2059, cnrm_cm5, Annual Anomaly, CAN
+0.31029, 2040-2059, csiro_mk3_6_0, Annual Anomaly, CAN
+0.59792, 2040-2059, gfdl_cm3, Annual Anomaly, CAN
+0.15451, 2040-2059, gfdl_esm2g, Annual Anomaly, CAN
+0.1824, 2040-2059, gfdl_esm2m, Annual Anomaly, CAN
+0.26357, 2040-2059, inmcm4, Annual Anomaly, CAN
+0.00745, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, CAN
+-0.1618, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, CAN
+-0.1081, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, CAN
+0.02074, 2040-2059, miroc5, Annual Anomaly, CAN
+0.43549, 2040-2059, miroc_esm_chem, Annual Anomaly, CAN
+0.27727, 2040-2059, miroc_esm, Annual Anomaly, CAN
+0.26051, 2040-2059, mpi_esm_mr, Annual Anomaly, CAN
+0.54555, 2040-2059, mri_cgcm3, Annual Anomaly, CAN
+-0.1018, 2040-2059, noresm1_m, Annual Anomaly, CAN
+-1.8423, 2040-2059, access1_3, Annual Anomaly, CPV
+-0.7144, 2040-2059, bcc_csm1_1_m, Annual Anomaly, CPV
+-1.2764, 2040-2059, bcc_csm1_1, Annual Anomaly, CPV
+-0.2372, 2040-2059, bnu_esm, Annual Anomaly, CPV
+-1.5023, 2040-2059, canesm2, Annual Anomaly, CPV
+-0.1218, 2040-2059, ccsm4, Annual Anomaly, CPV
+-1.1249, 2040-2059, cesm1_bgc, Annual Anomaly, CPV
+-0.8209, 2040-2059, cesm1_cam5, Annual Anomaly, CPV
+-0.2768, 2040-2059, cnrm_cm5, Annual Anomaly, CPV
+-0.3687, 2040-2059, csiro_mk3_6_0, Annual Anomaly, CPV
+1.08429, 2040-2059, gfdl_cm3, Annual Anomaly, CPV
+0.59058, 2040-2059, gfdl_esm2g, Annual Anomaly, CPV
+1.13564, 2040-2059, gfdl_esm2m, Annual Anomaly, CPV
+-0.316, 2040-2059, inmcm4, Annual Anomaly, CPV
+-1.4183, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, CPV
+-1.9117, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, CPV
+0.20781, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, CPV
+-0.1342, 2040-2059, miroc5, Annual Anomaly, CPV
+0.65175, 2040-2059, miroc_esm_chem, Annual Anomaly, CPV
+1.24131, 2040-2059, miroc_esm, Annual Anomaly, CPV
+-1.1909, 2040-2059, mpi_esm_mr, Annual Anomaly, CPV
+-1.2167, 2040-2059, mri_cgcm3, Annual Anomaly, CPV
+-0.6749, 2040-2059, noresm1_m, Annual Anomaly, CPV
+-0.4245, 2040-2059, access1_3, Annual Anomaly, TCD
+-1.0053, 2040-2059, bcc_csm1_1_m, Annual Anomaly, TCD
+-0.9693, 2040-2059, bcc_csm1_1, Annual Anomaly, TCD
+0.60567, 2040-2059, bnu_esm, Annual Anomaly, TCD
+-0.8394, 2040-2059, canesm2, Annual Anomaly, TCD
+-0.137, 2040-2059, ccsm4, Annual Anomaly, TCD
+-0.7971, 2040-2059, cesm1_bgc, Annual Anomaly, TCD
+-0.9244, 2040-2059, cesm1_cam5, Annual Anomaly, TCD
+-0.0668, 2040-2059, cnrm_cm5, Annual Anomaly, TCD
+-1.0894, 2040-2059, csiro_mk3_6_0, Annual Anomaly, TCD
+-0.4534, 2040-2059, gfdl_cm3, Annual Anomaly, TCD
+-0.2707, 2040-2059, gfdl_esm2g, Annual Anomaly, TCD
+-0.7764, 2040-2059, gfdl_esm2m, Annual Anomaly, TCD
+-0.23, 2040-2059, inmcm4, Annual Anomaly, TCD
+-0.7833, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, TCD
+-0.7687, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, TCD
+-0.6509, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, TCD
+-0.2581, 2040-2059, miroc5, Annual Anomaly, TCD
+0.09316, 2040-2059, miroc_esm_chem, Annual Anomaly, TCD
+-0.1919, 2040-2059, miroc_esm, Annual Anomaly, TCD
+-1.665, 2040-2059, mpi_esm_mr, Annual Anomaly, TCD
+-1.0497, 2040-2059, mri_cgcm3, Annual Anomaly, TCD
+0.03687, 2040-2059, noresm1_m, Annual Anomaly, TCD
+-0.514, 2040-2059, access1_3, Annual Anomaly, COL
+-0.8185, 2040-2059, bcc_csm1_1_m, Annual Anomaly, COL
+0.67101, 2040-2059, bcc_csm1_1, Annual Anomaly, COL
+-0.5364, 2040-2059, bnu_esm, Annual Anomaly, COL
+-1.1729, 2040-2059, canesm2, Annual Anomaly, COL
+0.20084, 2040-2059, ccsm4, Annual Anomaly, COL
+0.13025, 2040-2059, cesm1_bgc, Annual Anomaly, COL
+0.08627, 2040-2059, cesm1_cam5, Annual Anomaly, COL
+0.16052, 2040-2059, cnrm_cm5, Annual Anomaly, COL
+-0.2452, 2040-2059, csiro_mk3_6_0, Annual Anomaly, COL
+-1.0827, 2040-2059, gfdl_cm3, Annual Anomaly, COL
+-0.5234, 2040-2059, gfdl_esm2g, Annual Anomaly, COL
+0.40825, 2040-2059, gfdl_esm2m, Annual Anomaly, COL
+-0.0789, 2040-2059, inmcm4, Annual Anomaly, COL
+-0.4015, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, COL
+-0.022, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, COL
+-0.7872, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, COL
+0.16218, 2040-2059, miroc5, Annual Anomaly, COL
+0.28959, 2040-2059, miroc_esm_chem, Annual Anomaly, COL
+-0.3256, 2040-2059, miroc_esm, Annual Anomaly, COL
+0.06032, 2040-2059, mpi_esm_mr, Annual Anomaly, COL
+0.21017, 2040-2059, mri_cgcm3, Annual Anomaly, COL
+0.59327, 2040-2059, noresm1_m, Annual Anomaly, COL
+0.47154, 2040-2059, access1_3, Annual Anomaly, COD
+-0.3433, 2040-2059, bcc_csm1_1_m, Annual Anomaly, COD
+0.19483, 2040-2059, bcc_csm1_1, Annual Anomaly, COD
+-0.2579, 2040-2059, bnu_esm, Annual Anomaly, COD
+-0.4521, 2040-2059, canesm2, Annual Anomaly, COD
+-0.0303, 2040-2059, ccsm4, Annual Anomaly, COD
+0.34093, 2040-2059, cesm1_bgc, Annual Anomaly, COD
+0.2937, 2040-2059, cesm1_cam5, Annual Anomaly, COD
+0.34029, 2040-2059, cnrm_cm5, Annual Anomaly, COD
+-1.635, 2040-2059, csiro_mk3_6_0, Annual Anomaly, COD
+-0.2146, 2040-2059, gfdl_cm3, Annual Anomaly, COD
+0.13087, 2040-2059, gfdl_esm2g, Annual Anomaly, COD
+-0.1063, 2040-2059, gfdl_esm2m, Annual Anomaly, COD
+-0.445, 2040-2059, inmcm4, Annual Anomaly, COD
+0.47145, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, COD
+-0.3597, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, COD
+0.00927, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, COD
+-0.2574, 2040-2059, miroc5, Annual Anomaly, COD
+-0.4853, 2040-2059, miroc_esm_chem, Annual Anomaly, COD
+-0.154, 2040-2059, miroc_esm, Annual Anomaly, COD
+0.2727, 2040-2059, mpi_esm_mr, Annual Anomaly, COD
+-0.0866, 2040-2059, mri_cgcm3, Annual Anomaly, COD
+-0.1898, 2040-2059, noresm1_m, Annual Anomaly, COD
+-0.722, 2040-2059, access1_3, Annual Anomaly, CIV
+-0.0194, 2040-2059, bcc_csm1_1_m, Annual Anomaly, CIV
+-0.2617, 2040-2059, bcc_csm1_1, Annual Anomaly, CIV
+-0.0735, 2040-2059, bnu_esm, Annual Anomaly, CIV
+-0.7199, 2040-2059, canesm2, Annual Anomaly, CIV
+0.04365, 2040-2059, ccsm4, Annual Anomaly, CIV
+-0.7484, 2040-2059, cesm1_bgc, Annual Anomaly, CIV
+-0.8985, 2040-2059, cesm1_cam5, Annual Anomaly, CIV
+0.40065, 2040-2059, cnrm_cm5, Annual Anomaly, CIV
+-0.7194, 2040-2059, csiro_mk3_6_0, Annual Anomaly, CIV
+-0.3616, 2040-2059, gfdl_cm3, Annual Anomaly, CIV
+0.34163, 2040-2059, gfdl_esm2g, Annual Anomaly, CIV
+0.28749, 2040-2059, gfdl_esm2m, Annual Anomaly, CIV
+-0.5378, 2040-2059, inmcm4, Annual Anomaly, CIV
+0.27682, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, CIV
+-1.135, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, CIV
+-0.2764, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, CIV
+0.33916, 2040-2059, miroc5, Annual Anomaly, CIV
+-0.0961, 2040-2059, miroc_esm_chem, Annual Anomaly, CIV
+0.68406, 2040-2059, miroc_esm, Annual Anomaly, CIV
+-0.5556, 2040-2059, mpi_esm_mr, Annual Anomaly, CIV
+-1.0057, 2040-2059, mri_cgcm3, Annual Anomaly, CIV
+-0.2844, 2040-2059, noresm1_m, Annual Anomaly, CIV
+0.61333, 2040-2059, access1_3, Annual Anomaly, DNK
+0.08105, 2040-2059, bcc_csm1_1_m, Annual Anomaly, DNK
+-0.411, 2040-2059, bcc_csm1_1, Annual Anomaly, DNK
+0.52368, 2040-2059, bnu_esm, Annual Anomaly, DNK
+-0.026, 2040-2059, canesm2, Annual Anomaly, DNK
+-0.6025, 2040-2059, ccsm4, Annual Anomaly, DNK
+0.06012, 2040-2059, cesm1_bgc, Annual Anomaly, DNK
+0.22527, 2040-2059, cesm1_cam5, Annual Anomaly, DNK
+0.15493, 2040-2059, cnrm_cm5, Annual Anomaly, DNK
+0.5715, 2040-2059, csiro_mk3_6_0, Annual Anomaly, DNK
+0.2717, 2040-2059, gfdl_cm3, Annual Anomaly, DNK
+-0.1143, 2040-2059, gfdl_esm2g, Annual Anomaly, DNK
+0.48191, 2040-2059, gfdl_esm2m, Annual Anomaly, DNK
+-0.0599, 2040-2059, inmcm4, Annual Anomaly, DNK
+0.06128, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, DNK
+-0.0568, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, DNK
+-0.3458, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, DNK
+-0.2397, 2040-2059, miroc5, Annual Anomaly, DNK
+1.12498, 2040-2059, miroc_esm_chem, Annual Anomaly, DNK
+1.16705, 2040-2059, miroc_esm, Annual Anomaly, DNK
+-0.105, 2040-2059, mpi_esm_mr, Annual Anomaly, DNK
+0.0663, 2040-2059, mri_cgcm3, Annual Anomaly, DNK
+-0.2845, 2040-2059, noresm1_m, Annual Anomaly, DNK
+-0.1185, 2040-2059, access1_3, Annual Anomaly, DJI
+-0.7878, 2040-2059, bcc_csm1_1_m, Annual Anomaly, DJI
+-0.3578, 2040-2059, bcc_csm1_1, Annual Anomaly, DJI
+0.48083, 2040-2059, bnu_esm, Annual Anomaly, DJI
+0.82655, 2040-2059, canesm2, Annual Anomaly, DJI
+0.39219, 2040-2059, ccsm4, Annual Anomaly, DJI
+-0.2035, 2040-2059, cesm1_bgc, Annual Anomaly, DJI
+-0.2672, 2040-2059, cesm1_cam5, Annual Anomaly, DJI
+0.30233, 2040-2059, cnrm_cm5, Annual Anomaly, DJI
+-0.3217, 2040-2059, csiro_mk3_6_0, Annual Anomaly, DJI
+-0.9588, 2040-2059, gfdl_cm3, Annual Anomaly, DJI
+-0.7207, 2040-2059, gfdl_esm2g, Annual Anomaly, DJI
+-0.1626, 2040-2059, gfdl_esm2m, Annual Anomaly, DJI
+-0.3706, 2040-2059, inmcm4, Annual Anomaly, DJI
+0.04211, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, DJI
+-0.6489, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, DJI
+-1.252, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, DJI
+0.45959, 2040-2059, miroc5, Annual Anomaly, DJI
+0.15426, 2040-2059, miroc_esm_chem, Annual Anomaly, DJI
+0.38026, 2040-2059, miroc_esm, Annual Anomaly, DJI
+-0.4709, 2040-2059, mpi_esm_mr, Annual Anomaly, DJI
+-0.1518, 2040-2059, mri_cgcm3, Annual Anomaly, DJI
+0.3543, 2040-2059, noresm1_m, Annual Anomaly, DJI
+-1.0367, 2040-2059, access1_3, Annual Anomaly, DMA
+-0.6853, 2040-2059, bcc_csm1_1_m, Annual Anomaly, DMA
+-0.8836, 2040-2059, bcc_csm1_1, Annual Anomaly, DMA
+-0.8059, 2040-2059, bnu_esm, Annual Anomaly, DMA
+-1.0564, 2040-2059, canesm2, Annual Anomaly, DMA
+-1.0602, 2040-2059, ccsm4, Annual Anomaly, DMA
+-1.455, 2040-2059, cesm1_bgc, Annual Anomaly, DMA
+-0.8456, 2040-2059, cesm1_cam5, Annual Anomaly, DMA
+-0.364, 2040-2059, cnrm_cm5, Annual Anomaly, DMA
+0.48121, 2040-2059, csiro_mk3_6_0, Annual Anomaly, DMA
+0.16428, 2040-2059, gfdl_cm3, Annual Anomaly, DMA
+-0.7388, 2040-2059, gfdl_esm2g, Annual Anomaly, DMA
+0.31194, 2040-2059, gfdl_esm2m, Annual Anomaly, DMA
+-0.9945, 2040-2059, inmcm4, Annual Anomaly, DMA
+-0.4255, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, DMA
+-1.3547, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, DMA
+0.04524, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, DMA
+-0.7715, 2040-2059, miroc5, Annual Anomaly, DMA
+0.2328, 2040-2059, miroc_esm_chem, Annual Anomaly, DMA
+1.25068, 2040-2059, miroc_esm, Annual Anomaly, DMA
+-0.7284, 2040-2059, mpi_esm_mr, Annual Anomaly, DMA
+0.0089, 2040-2059, mri_cgcm3, Annual Anomaly, DMA
+-0.2906, 2040-2059, noresm1_m, Annual Anomaly, DMA
+-1.9702, 2040-2059, access1_3, Annual Anomaly, EGY
+-1.674, 2040-2059, bcc_csm1_1_m, Annual Anomaly, EGY
+-1.6542, 2040-2059, bcc_csm1_1, Annual Anomaly, EGY
+0.17926, 2040-2059, bnu_esm, Annual Anomaly, EGY
+-1.7599, 2040-2059, canesm2, Annual Anomaly, EGY
+-1.1451, 2040-2059, ccsm4, Annual Anomaly, EGY
+-1.075, 2040-2059, cesm1_bgc, Annual Anomaly, EGY
+-1.3068, 2040-2059, cesm1_cam5, Annual Anomaly, EGY
+-0.9681, 2040-2059, cnrm_cm5, Annual Anomaly, EGY
+-1.0262, 2040-2059, csiro_mk3_6_0, Annual Anomaly, EGY
+-2.0877, 2040-2059, gfdl_cm3, Annual Anomaly, EGY
+-1.6164, 2040-2059, gfdl_esm2g, Annual Anomaly, EGY
+-1.0875, 2040-2059, gfdl_esm2m, Annual Anomaly, EGY
+-0.5013, 2040-2059, inmcm4, Annual Anomaly, EGY
+-1.9643, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, EGY
+-1.7521, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, EGY
+-2.2992, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, EGY
+-1.5787, 2040-2059, miroc5, Annual Anomaly, EGY
+-1.0057, 2040-2059, miroc_esm_chem, Annual Anomaly, EGY
+-1.6019, 2040-2059, miroc_esm, Annual Anomaly, EGY
+-1.2625, 2040-2059, mpi_esm_mr, Annual Anomaly, EGY
+-1.3149, 2040-2059, mri_cgcm3, Annual Anomaly, EGY
+-1.5101, 2040-2059, noresm1_m, Annual Anomaly, EGY
+0.09718, 2040-2059, access1_3, Annual Anomaly, ERI
+-0.9533, 2040-2059, bcc_csm1_1_m, Annual Anomaly, ERI
+-0.9853, 2040-2059, bcc_csm1_1, Annual Anomaly, ERI
+0.73959, 2040-2059, bnu_esm, Annual Anomaly, ERI
+0.15421, 2040-2059, canesm2, Annual Anomaly, ERI
+-0.4364, 2040-2059, ccsm4, Annual Anomaly, ERI
+-0.8342, 2040-2059, cesm1_bgc, Annual Anomaly, ERI
+-0.8326, 2040-2059, cesm1_cam5, Annual Anomaly, ERI
+-0.0711, 2040-2059, cnrm_cm5, Annual Anomaly, ERI
+-0.7468, 2040-2059, csiro_mk3_6_0, Annual Anomaly, ERI
+-0.4322, 2040-2059, gfdl_cm3, Annual Anomaly, ERI
+-0.4378, 2040-2059, gfdl_esm2g, Annual Anomaly, ERI
+-0.4308, 2040-2059, gfdl_esm2m, Annual Anomaly, ERI
+-0.3495, 2040-2059, inmcm4, Annual Anomaly, ERI
+-1.3228, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, ERI
+-0.3344, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, ERI
+-0.2383, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, ERI
+0.1696, 2040-2059, miroc5, Annual Anomaly, ERI
+0.46949, 2040-2059, miroc_esm_chem, Annual Anomaly, ERI
+0.48691, 2040-2059, miroc_esm, Annual Anomaly, ERI
+-1.0627, 2040-2059, mpi_esm_mr, Annual Anomaly, ERI
+-0.5593, 2040-2059, mri_cgcm3, Annual Anomaly, ERI
+0.33016, 2040-2059, noresm1_m, Annual Anomaly, ERI
+0.36955, 2040-2059, access1_3, Annual Anomaly, ETH
+-0.2667, 2040-2059, bcc_csm1_1_m, Annual Anomaly, ETH
+-0.4185, 2040-2059, bcc_csm1_1, Annual Anomaly, ETH
+1.41179, 2040-2059, bnu_esm, Annual Anomaly, ETH
+0.97429, 2040-2059, canesm2, Annual Anomaly, ETH
+0.00389, 2040-2059, ccsm4, Annual Anomaly, ETH
+0.0126, 2040-2059, cesm1_bgc, Annual Anomaly, ETH
+-0.4685, 2040-2059, cesm1_cam5, Annual Anomaly, ETH
+0.22027, 2040-2059, cnrm_cm5, Annual Anomaly, ETH
+-0.5478, 2040-2059, csiro_mk3_6_0, Annual Anomaly, ETH
+-0.3293, 2040-2059, gfdl_cm3, Annual Anomaly, ETH
+-0.3647, 2040-2059, gfdl_esm2g, Annual Anomaly, ETH
+-0.0489, 2040-2059, gfdl_esm2m, Annual Anomaly, ETH
+-0.3677, 2040-2059, inmcm4, Annual Anomaly, ETH
+0.4943, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, ETH
+0.21365, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, ETH
+-0.6385, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, ETH
+-0.4436, 2040-2059, miroc5, Annual Anomaly, ETH
+-0.0438, 2040-2059, miroc_esm_chem, Annual Anomaly, ETH
+-0.3125, 2040-2059, miroc_esm, Annual Anomaly, ETH
+-0.3018, 2040-2059, mpi_esm_mr, Annual Anomaly, ETH
+0.00758, 2040-2059, mri_cgcm3, Annual Anomaly, ETH
+0.05699, 2040-2059, noresm1_m, Annual Anomaly, ETH
+0.31105, 2040-2059, access1_3, Annual Anomaly, FSM
+0.69068, 2040-2059, bcc_csm1_1_m, Annual Anomaly, FSM
+0.65949, 2040-2059, bcc_csm1_1, Annual Anomaly, FSM
+0.13971, 2040-2059, bnu_esm, Annual Anomaly, FSM
+-0.363, 2040-2059, canesm2, Annual Anomaly, FSM
+-0.0368, 2040-2059, ccsm4, Annual Anomaly, FSM
+-0.1082, 2040-2059, cesm1_bgc, Annual Anomaly, FSM
+-0.0449, 2040-2059, cesm1_cam5, Annual Anomaly, FSM
+0.36974, 2040-2059, cnrm_cm5, Annual Anomaly, FSM
+0.49247, 2040-2059, csiro_mk3_6_0, Annual Anomaly, FSM
+-0.1175, 2040-2059, gfdl_cm3, Annual Anomaly, FSM
+0.50628, 2040-2059, gfdl_esm2g, Annual Anomaly, FSM
+0.39289, 2040-2059, gfdl_esm2m, Annual Anomaly, FSM
+0.47188, 2040-2059, inmcm4, Annual Anomaly, FSM
+0.54433, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, FSM
+0.75951, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, FSM
+0.15424, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, FSM
+-0.6111, 2040-2059, miroc5, Annual Anomaly, FSM
+-0.0171, 2040-2059, miroc_esm_chem, Annual Anomaly, FSM
+0.33853, 2040-2059, miroc_esm, Annual Anomaly, FSM
+0.93481, 2040-2059, mpi_esm_mr, Annual Anomaly, FSM
+-0.2447, 2040-2059, mri_cgcm3, Annual Anomaly, FSM
+0.31005, 2040-2059, noresm1_m, Annual Anomaly, FSM
+-0.5159, 2040-2059, access1_3, Annual Anomaly, FRA
+-0.2873, 2040-2059, bcc_csm1_1_m, Annual Anomaly, FRA
+-0.5816, 2040-2059, bcc_csm1_1, Annual Anomaly, FRA
+-0.3775, 2040-2059, bnu_esm, Annual Anomaly, FRA
+-0.3202, 2040-2059, canesm2, Annual Anomaly, FRA
+-1.3408, 2040-2059, ccsm4, Annual Anomaly, FRA
+-1.1314, 2040-2059, cesm1_bgc, Annual Anomaly, FRA
+-0.2883, 2040-2059, cesm1_cam5, Annual Anomaly, FRA
+-0.4696, 2040-2059, cnrm_cm5, Annual Anomaly, FRA
+-0.8032, 2040-2059, csiro_mk3_6_0, Annual Anomaly, FRA
+-1.4237, 2040-2059, gfdl_cm3, Annual Anomaly, FRA
+-0.3707, 2040-2059, gfdl_esm2g, Annual Anomaly, FRA
+-0.5837, 2040-2059, gfdl_esm2m, Annual Anomaly, FRA
+-0.64, 2040-2059, inmcm4, Annual Anomaly, FRA
+-0.3361, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, FRA
+-0.6096, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, FRA
+-0.371, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, FRA
+-1.008, 2040-2059, miroc5, Annual Anomaly, FRA
+-0.4429, 2040-2059, miroc_esm_chem, Annual Anomaly, FRA
+-0.339, 2040-2059, miroc_esm, Annual Anomaly, FRA
+-0.6334, 2040-2059, mpi_esm_mr, Annual Anomaly, FRA
+-0.138, 2040-2059, mri_cgcm3, Annual Anomaly, FRA
+-0.6998, 2040-2059, noresm1_m, Annual Anomaly, FRA
+0.81936, 2040-2059, access1_3, Annual Anomaly, GAB
+-0.2855, 2040-2059, bcc_csm1_1_m, Annual Anomaly, GAB
+-0.4075, 2040-2059, bcc_csm1_1, Annual Anomaly, GAB
+-0.4243, 2040-2059, bnu_esm, Annual Anomaly, GAB
+-1.1021, 2040-2059, canesm2, Annual Anomaly, GAB
+0.21407, 2040-2059, ccsm4, Annual Anomaly, GAB
+0.33465, 2040-2059, cesm1_bgc, Annual Anomaly, GAB
+0.05205, 2040-2059, cesm1_cam5, Annual Anomaly, GAB
+-0.108, 2040-2059, cnrm_cm5, Annual Anomaly, GAB
+-0.435, 2040-2059, csiro_mk3_6_0, Annual Anomaly, GAB
+-0.4692, 2040-2059, gfdl_cm3, Annual Anomaly, GAB
+0.62061, 2040-2059, gfdl_esm2g, Annual Anomaly, GAB
+-0.0534, 2040-2059, gfdl_esm2m, Annual Anomaly, GAB
+-0.2885, 2040-2059, inmcm4, Annual Anomaly, GAB
+0.53261, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, GAB
+0.57341, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, GAB
+-0.057, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, GAB
+1.51289, 2040-2059, miroc5, Annual Anomaly, GAB
+-0.0736, 2040-2059, miroc_esm_chem, Annual Anomaly, GAB
+0.71608, 2040-2059, miroc_esm, Annual Anomaly, GAB
+0.9258, 2040-2059, mpi_esm_mr, Annual Anomaly, GAB
+0.17106, 2040-2059, mri_cgcm3, Annual Anomaly, GAB
+0.28465, 2040-2059, noresm1_m, Annual Anomaly, GAB
+-1.495, 2040-2059, access1_3, Annual Anomaly, GMB
+-0.5152, 2040-2059, bcc_csm1_1_m, Annual Anomaly, GMB
+-0.6925, 2040-2059, bcc_csm1_1, Annual Anomaly, GMB
+-0.3638, 2040-2059, bnu_esm, Annual Anomaly, GMB
+-1.5357, 2040-2059, canesm2, Annual Anomaly, GMB
+-0.019, 2040-2059, ccsm4, Annual Anomaly, GMB
+-0.6994, 2040-2059, cesm1_bgc, Annual Anomaly, GMB
+-1.0065, 2040-2059, cesm1_cam5, Annual Anomaly, GMB
+-0.6359, 2040-2059, cnrm_cm5, Annual Anomaly, GMB
+-0.6868, 2040-2059, csiro_mk3_6_0, Annual Anomaly, GMB
+-0.2813, 2040-2059, gfdl_cm3, Annual Anomaly, GMB
+0.09418, 2040-2059, gfdl_esm2g, Annual Anomaly, GMB
+0.59528, 2040-2059, gfdl_esm2m, Annual Anomaly, GMB
+-0.0602, 2040-2059, inmcm4, Annual Anomaly, GMB
+-0.5536, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, GMB
+-1.6956, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, GMB
+-0.2226, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, GMB
+-0.7635, 2040-2059, miroc5, Annual Anomaly, GMB
+0.47232, 2040-2059, miroc_esm_chem, Annual Anomaly, GMB
+0.91736, 2040-2059, miroc_esm, Annual Anomaly, GMB
+-1.3598, 2040-2059, mpi_esm_mr, Annual Anomaly, GMB
+-1.281, 2040-2059, mri_cgcm3, Annual Anomaly, GMB
+-0.3387, 2040-2059, noresm1_m, Annual Anomaly, GMB
+-1.2594, 2040-2059, access1_3, Annual Anomaly, GRC
+-1.0723, 2040-2059, bcc_csm1_1_m, Annual Anomaly, GRC
+-0.9252, 2040-2059, bcc_csm1_1, Annual Anomaly, GRC
+-0.6429, 2040-2059, bnu_esm, Annual Anomaly, GRC
+-1.2421, 2040-2059, canesm2, Annual Anomaly, GRC
+-0.8575, 2040-2059, ccsm4, Annual Anomaly, GRC
+-0.7018, 2040-2059, cesm1_bgc, Annual Anomaly, GRC
+-0.3702, 2040-2059, cesm1_cam5, Annual Anomaly, GRC
+-0.172, 2040-2059, cnrm_cm5, Annual Anomaly, GRC
+-1.9056, 2040-2059, csiro_mk3_6_0, Annual Anomaly, GRC
+-1.7187, 2040-2059, gfdl_cm3, Annual Anomaly, GRC
+-0.468, 2040-2059, gfdl_esm2g, Annual Anomaly, GRC
+-0.7303, 2040-2059, gfdl_esm2m, Annual Anomaly, GRC
+-0.4526, 2040-2059, inmcm4, Annual Anomaly, GRC
+-0.8108, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, GRC
+-1.2982, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, GRC
+-0.1376, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, GRC
+-0.8533, 2040-2059, miroc5, Annual Anomaly, GRC
+-1.3963, 2040-2059, miroc_esm_chem, Annual Anomaly, GRC
+-1.6841, 2040-2059, miroc_esm, Annual Anomaly, GRC
+-0.2976, 2040-2059, mpi_esm_mr, Annual Anomaly, GRC
+-0.2771, 2040-2059, mri_cgcm3, Annual Anomaly, GRC
+-1.0519, 2040-2059, noresm1_m, Annual Anomaly, GRC
+-0.0728, 2040-2059, access1_3, Annual Anomaly, GRL
+0.33597, 2040-2059, bcc_csm1_1_m, Annual Anomaly, GRL
+0.39993, 2040-2059, bcc_csm1_1, Annual Anomaly, GRL
+0.37318, 2040-2059, bnu_esm, Annual Anomaly, GRL
+0.45313, 2040-2059, canesm2, Annual Anomaly, GRL
+0.56114, 2040-2059, ccsm4, Annual Anomaly, GRL
+0.0875, 2040-2059, cesm1_bgc, Annual Anomaly, GRL
+-0.1066, 2040-2059, cesm1_cam5, Annual Anomaly, GRL
+-0.1853, 2040-2059, cnrm_cm5, Annual Anomaly, GRL
+-0.0853, 2040-2059, csiro_mk3_6_0, Annual Anomaly, GRL
+0.24345, 2040-2059, gfdl_cm3, Annual Anomaly, GRL
+-0.3123, 2040-2059, gfdl_esm2g, Annual Anomaly, GRL
+-0.3631, 2040-2059, gfdl_esm2m, Annual Anomaly, GRL
+0.2549, 2040-2059, inmcm4, Annual Anomaly, GRL
+-0.1341, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, GRL
+0.0498, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, GRL
+-0.0754, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, GRL
+0.22583, 2040-2059, miroc5, Annual Anomaly, GRL
+0.80913, 2040-2059, miroc_esm_chem, Annual Anomaly, GRL
+0.80708, 2040-2059, miroc_esm, Annual Anomaly, GRL
+0.10439, 2040-2059, mpi_esm_mr, Annual Anomaly, GRL
+0.26277, 2040-2059, mri_cgcm3, Annual Anomaly, GRL
+0.40619, 2040-2059, noresm1_m, Annual Anomaly, GRL
+-1.3684, 2040-2059, access1_3, Annual Anomaly, GRD
+-0.7758, 2040-2059, bcc_csm1_1_m, Annual Anomaly, GRD
+-0.6241, 2040-2059, bcc_csm1_1, Annual Anomaly, GRD
+-1.6739, 2040-2059, bnu_esm, Annual Anomaly, GRD
+-1.4698, 2040-2059, canesm2, Annual Anomaly, GRD
+-1.0538, 2040-2059, ccsm4, Annual Anomaly, GRD
+-1.4573, 2040-2059, cesm1_bgc, Annual Anomaly, GRD
+-1.7631, 2040-2059, cesm1_cam5, Annual Anomaly, GRD
+-0.0388, 2040-2059, cnrm_cm5, Annual Anomaly, GRD
+-0.0336, 2040-2059, csiro_mk3_6_0, Annual Anomaly, GRD
+-0.4359, 2040-2059, gfdl_cm3, Annual Anomaly, GRD
+-0.3366, 2040-2059, gfdl_esm2g, Annual Anomaly, GRD
+0.08928, 2040-2059, gfdl_esm2m, Annual Anomaly, GRD
+-1.2283, 2040-2059, inmcm4, Annual Anomaly, GRD
+-1.4816, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, GRD
+-1.7206, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, GRD
+-0.3004, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, GRD
+-0.6458, 2040-2059, miroc5, Annual Anomaly, GRD
+-0.7557, 2040-2059, miroc_esm_chem, Annual Anomaly, GRD
+0.05083, 2040-2059, miroc_esm, Annual Anomaly, GRD
+-0.8562, 2040-2059, mpi_esm_mr, Annual Anomaly, GRD
+0.09663, 2040-2059, mri_cgcm3, Annual Anomaly, GRD
+-0.3418, 2040-2059, noresm1_m, Annual Anomaly, GRD
+-1.5113, 2040-2059, access1_3, Annual Anomaly, HTI
+-0.1774, 2040-2059, bcc_csm1_1_m, Annual Anomaly, HTI
+-0.5688, 2040-2059, bcc_csm1_1, Annual Anomaly, HTI
+-0.9086, 2040-2059, bnu_esm, Annual Anomaly, HTI
+-0.9148, 2040-2059, canesm2, Annual Anomaly, HTI
+-1.1342, 2040-2059, ccsm4, Annual Anomaly, HTI
+-1.1353, 2040-2059, cesm1_bgc, Annual Anomaly, HTI
+-0.7514, 2040-2059, cesm1_cam5, Annual Anomaly, HTI
+-0.6242, 2040-2059, cnrm_cm5, Annual Anomaly, HTI
+-0.5362, 2040-2059, csiro_mk3_6_0, Annual Anomaly, HTI
+-0.3505, 2040-2059, gfdl_cm3, Annual Anomaly, HTI
+-0.6271, 2040-2059, gfdl_esm2g, Annual Anomaly, HTI
+0.05975, 2040-2059, gfdl_esm2m, Annual Anomaly, HTI
+-0.7515, 2040-2059, inmcm4, Annual Anomaly, HTI
+-1.1549, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, HTI
+-1.8752, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, HTI
+-0.2495, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, HTI
+-0.6685, 2040-2059, miroc5, Annual Anomaly, HTI
+-0.5482, 2040-2059, miroc_esm_chem, Annual Anomaly, HTI
+0.54127, 2040-2059, miroc_esm, Annual Anomaly, HTI
+-0.9673, 2040-2059, mpi_esm_mr, Annual Anomaly, HTI
+-1.286, 2040-2059, mri_cgcm3, Annual Anomaly, HTI
+-1.1618, 2040-2059, noresm1_m, Annual Anomaly, HTI
+-0.3819, 2040-2059, access1_3, Annual Anomaly, IRN
+-1.3768, 2040-2059, bcc_csm1_1_m, Annual Anomaly, IRN
+-0.9678, 2040-2059, bcc_csm1_1, Annual Anomaly, IRN
+-0.3063, 2040-2059, bnu_esm, Annual Anomaly, IRN
+-0.8751, 2040-2059, canesm2, Annual Anomaly, IRN
+-0.6565, 2040-2059, ccsm4, Annual Anomaly, IRN
+-0.6639, 2040-2059, cesm1_bgc, Annual Anomaly, IRN
+-0.6488, 2040-2059, cesm1_cam5, Annual Anomaly, IRN
+-0.299, 2040-2059, cnrm_cm5, Annual Anomaly, IRN
+-1.6828, 2040-2059, csiro_mk3_6_0, Annual Anomaly, IRN
+-1.2168, 2040-2059, gfdl_cm3, Annual Anomaly, IRN
+-1.5337, 2040-2059, gfdl_esm2g, Annual Anomaly, IRN
+-0.7466, 2040-2059, gfdl_esm2m, Annual Anomaly, IRN
+-0.1671, 2040-2059, inmcm4, Annual Anomaly, IRN
+-2.0587, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, IRN
+-2.1327, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, IRN
+-1.3214, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, IRN
+-0.7637, 2040-2059, miroc5, Annual Anomaly, IRN
+-0.867, 2040-2059, miroc_esm_chem, Annual Anomaly, IRN
+-1.2966, 2040-2059, miroc_esm, Annual Anomaly, IRN
+-1.0739, 2040-2059, mpi_esm_mr, Annual Anomaly, IRN
+-0.1142, 2040-2059, mri_cgcm3, Annual Anomaly, IRN
+-0.6751, 2040-2059, noresm1_m, Annual Anomaly, IRN
+0.87527, 2040-2059, access1_3, Annual Anomaly, IRL
+0.36042, 2040-2059, bcc_csm1_1_m, Annual Anomaly, IRL
+-0.6296, 2040-2059, bcc_csm1_1, Annual Anomaly, IRL
+0.73762, 2040-2059, bnu_esm, Annual Anomaly, IRL
+-0.2254, 2040-2059, canesm2, Annual Anomaly, IRL
+-0.7246, 2040-2059, ccsm4, Annual Anomaly, IRL
+-0.0332, 2040-2059, cesm1_bgc, Annual Anomaly, IRL
+-0.2321, 2040-2059, cesm1_cam5, Annual Anomaly, IRL
+-0.3151, 2040-2059, cnrm_cm5, Annual Anomaly, IRL
+0.08495, 2040-2059, csiro_mk3_6_0, Annual Anomaly, IRL
+0.61222, 2040-2059, gfdl_cm3, Annual Anomaly, IRL
+0.11091, 2040-2059, gfdl_esm2g, Annual Anomaly, IRL
+-0.0062, 2040-2059, gfdl_esm2m, Annual Anomaly, IRL
+0.12829, 2040-2059, inmcm4, Annual Anomaly, IRL
+0.12546, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, IRL
+-0.1846, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, IRL
+-0.3941, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, IRL
+-0.6019, 2040-2059, miroc5, Annual Anomaly, IRL
+0.55027, 2040-2059, miroc_esm_chem, Annual Anomaly, IRL
+0.21252, 2040-2059, miroc_esm, Annual Anomaly, IRL
+-0.0661, 2040-2059, mpi_esm_mr, Annual Anomaly, IRL
+-0.529, 2040-2059, mri_cgcm3, Annual Anomaly, IRL
+-0.1779, 2040-2059, noresm1_m, Annual Anomaly, IRL
+0.15182, 2040-2059, access1_3, Annual Anomaly, JPN
+0.24909, 2040-2059, bcc_csm1_1_m, Annual Anomaly, JPN
+0.38337, 2040-2059, bcc_csm1_1, Annual Anomaly, JPN
+0.17138, 2040-2059, bnu_esm, Annual Anomaly, JPN
+0.29194, 2040-2059, canesm2, Annual Anomaly, JPN
+-0.1334, 2040-2059, ccsm4, Annual Anomaly, JPN
+0.47171, 2040-2059, cesm1_bgc, Annual Anomaly, JPN
+0.60134, 2040-2059, cesm1_cam5, Annual Anomaly, JPN
+0.52887, 2040-2059, cnrm_cm5, Annual Anomaly, JPN
+0.39407, 2040-2059, csiro_mk3_6_0, Annual Anomaly, JPN
+0.51795, 2040-2059, gfdl_cm3, Annual Anomaly, JPN
+-0.1344, 2040-2059, gfdl_esm2g, Annual Anomaly, JPN
+0.38463, 2040-2059, gfdl_esm2m, Annual Anomaly, JPN
+-0.4127, 2040-2059, inmcm4, Annual Anomaly, JPN
+-0.1516, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, JPN
+-0.5459, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, JPN
+-0.198, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, JPN
+0.33811, 2040-2059, miroc5, Annual Anomaly, JPN
+0.53596, 2040-2059, miroc_esm_chem, Annual Anomaly, JPN
+0.29882, 2040-2059, miroc_esm, Annual Anomaly, JPN
+0.04977, 2040-2059, mpi_esm_mr, Annual Anomaly, JPN
+0.18265, 2040-2059, mri_cgcm3, Annual Anomaly, JPN
+-0.0852, 2040-2059, noresm1_m, Annual Anomaly, JPN
+0.58416, 2040-2059, access1_3, Annual Anomaly, KEN
+0.25008, 2040-2059, bcc_csm1_1_m, Annual Anomaly, KEN
+-0.3838, 2040-2059, bcc_csm1_1, Annual Anomaly, KEN
+0.73963, 2040-2059, bnu_esm, Annual Anomaly, KEN
+1.12599, 2040-2059, canesm2, Annual Anomaly, KEN
+0.38928, 2040-2059, ccsm4, Annual Anomaly, KEN
+0.22184, 2040-2059, cesm1_bgc, Annual Anomaly, KEN
+-0.1506, 2040-2059, cesm1_cam5, Annual Anomaly, KEN
+0.47474, 2040-2059, cnrm_cm5, Annual Anomaly, KEN
+0.05268, 2040-2059, csiro_mk3_6_0, Annual Anomaly, KEN
+-0.0645, 2040-2059, gfdl_cm3, Annual Anomaly, KEN
+-0.453, 2040-2059, gfdl_esm2g, Annual Anomaly, KEN
+-0.2143, 2040-2059, gfdl_esm2m, Annual Anomaly, KEN
+-0.2877, 2040-2059, inmcm4, Annual Anomaly, KEN
+0.29433, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, KEN
+-0.1729, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, KEN
+-0.3576, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, KEN
+-0.9854, 2040-2059, miroc5, Annual Anomaly, KEN
+0.72691, 2040-2059, miroc_esm_chem, Annual Anomaly, KEN
+0.4838, 2040-2059, miroc_esm, Annual Anomaly, KEN
+0.1515, 2040-2059, mpi_esm_mr, Annual Anomaly, KEN
+0.09794, 2040-2059, mri_cgcm3, Annual Anomaly, KEN
+-0.0278, 2040-2059, noresm1_m, Annual Anomaly, KEN
+0.15025, 2040-2059, access1_3, Annual Anomaly, LVA
+0.39948, 2040-2059, bcc_csm1_1_m, Annual Anomaly, LVA
+-0.0727, 2040-2059, bcc_csm1_1, Annual Anomaly, LVA
+-0.345, 2040-2059, bnu_esm, Annual Anomaly, LVA
+0.12926, 2040-2059, canesm2, Annual Anomaly, LVA
+-0.9921, 2040-2059, ccsm4, Annual Anomaly, LVA
+-0.6639, 2040-2059, cesm1_bgc, Annual Anomaly, LVA
+-0.4634, 2040-2059, cesm1_cam5, Annual Anomaly, LVA
+-0.1192, 2040-2059, cnrm_cm5, Annual Anomaly, LVA
+0.5683, 2040-2059, csiro_mk3_6_0, Annual Anomaly, LVA
+0.28462, 2040-2059, gfdl_cm3, Annual Anomaly, LVA
+-0.1031, 2040-2059, gfdl_esm2g, Annual Anomaly, LVA
+0.61912, 2040-2059, gfdl_esm2m, Annual Anomaly, LVA
+0.36857, 2040-2059, inmcm4, Annual Anomaly, LVA
+0.27781, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, LVA
+-0.4579, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, LVA
+-0.0056, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, LVA
+-0.6387, 2040-2059, miroc5, Annual Anomaly, LVA
+0.33307, 2040-2059, miroc_esm_chem, Annual Anomaly, LVA
+0.67418, 2040-2059, miroc_esm, Annual Anomaly, LVA
+-0.013, 2040-2059, mpi_esm_mr, Annual Anomaly, LVA
+-0.0386, 2040-2059, mri_cgcm3, Annual Anomaly, LVA
+-0.1286, 2040-2059, noresm1_m, Annual Anomaly, LVA
+-1.1504, 2040-2059, access1_3, Annual Anomaly, LBN
+-1.3204, 2040-2059, bcc_csm1_1_m, Annual Anomaly, LBN
+-1.3175, 2040-2059, bcc_csm1_1, Annual Anomaly, LBN
+-0.9505, 2040-2059, bnu_esm, Annual Anomaly, LBN
+-2.1296, 2040-2059, canesm2, Annual Anomaly, LBN
+-1.0516, 2040-2059, ccsm4, Annual Anomaly, LBN
+-1.2787, 2040-2059, cesm1_bgc, Annual Anomaly, LBN
+-0.5959, 2040-2059, cesm1_cam5, Annual Anomaly, LBN
+-0.7206, 2040-2059, cnrm_cm5, Annual Anomaly, LBN
+-0.7891, 2040-2059, csiro_mk3_6_0, Annual Anomaly, LBN
+-1.5176, 2040-2059, gfdl_cm3, Annual Anomaly, LBN
+-1.4562, 2040-2059, gfdl_esm2g, Annual Anomaly, LBN
+-0.8297, 2040-2059, gfdl_esm2m, Annual Anomaly, LBN
+0.39007, 2040-2059, inmcm4, Annual Anomaly, LBN
+-2.5436, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, LBN
+-1.8179, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, LBN
+-1.2507, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, LBN
+-1.1327, 2040-2059, miroc5, Annual Anomaly, LBN
+-1.2933, 2040-2059, miroc_esm_chem, Annual Anomaly, LBN
+-1.5603, 2040-2059, miroc_esm, Annual Anomaly, LBN
+-0.5872, 2040-2059, mpi_esm_mr, Annual Anomaly, LBN
+-0.1822, 2040-2059, mri_cgcm3, Annual Anomaly, LBN
+-1.0983, 2040-2059, noresm1_m, Annual Anomaly, LBN
+-0.1481, 2040-2059, access1_3, Annual Anomaly, LSO
+-1.0466, 2040-2059, bcc_csm1_1_m, Annual Anomaly, LSO
+-0.4088, 2040-2059, bcc_csm1_1, Annual Anomaly, LSO
+-0.7853, 2040-2059, bnu_esm, Annual Anomaly, LSO
+-1.2296, 2040-2059, canesm2, Annual Anomaly, LSO
+-0.5172, 2040-2059, ccsm4, Annual Anomaly, LSO
+-0.4774, 2040-2059, cesm1_bgc, Annual Anomaly, LSO
+-1.4662, 2040-2059, cesm1_cam5, Annual Anomaly, LSO
+-0.0967, 2040-2059, cnrm_cm5, Annual Anomaly, LSO
+-0.6257, 2040-2059, csiro_mk3_6_0, Annual Anomaly, LSO
+-0.888, 2040-2059, gfdl_cm3, Annual Anomaly, LSO
+-0.4984, 2040-2059, gfdl_esm2g, Annual Anomaly, LSO
+-0.1934, 2040-2059, gfdl_esm2m, Annual Anomaly, LSO
+-0.5928, 2040-2059, inmcm4, Annual Anomaly, LSO
+0.15836, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, LSO
+-0.3384, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, LSO
+-0.9638, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, LSO
+-0.1813, 2040-2059, miroc5, Annual Anomaly, LSO
+-1.2967, 2040-2059, miroc_esm_chem, Annual Anomaly, LSO
+-0.8304, 2040-2059, miroc_esm, Annual Anomaly, LSO
+-0.786, 2040-2059, mpi_esm_mr, Annual Anomaly, LSO
+0.00728, 2040-2059, mri_cgcm3, Annual Anomaly, LSO
+0.21647, 2040-2059, noresm1_m, Annual Anomaly, LSO
+-0.8942, 2040-2059, access1_3, Annual Anomaly, LBR
+-0.1979, 2040-2059, bcc_csm1_1_m, Annual Anomaly, LBR
+-0.2352, 2040-2059, bcc_csm1_1, Annual Anomaly, LBR
+-0.0936, 2040-2059, bnu_esm, Annual Anomaly, LBR
+-0.1892, 2040-2059, canesm2, Annual Anomaly, LBR
+0.39318, 2040-2059, ccsm4, Annual Anomaly, LBR
+-0.0132, 2040-2059, cesm1_bgc, Annual Anomaly, LBR
+-0.1385, 2040-2059, cesm1_cam5, Annual Anomaly, LBR
+0.23792, 2040-2059, cnrm_cm5, Annual Anomaly, LBR
+-0.4872, 2040-2059, csiro_mk3_6_0, Annual Anomaly, LBR
+-0.4015, 2040-2059, gfdl_cm3, Annual Anomaly, LBR
+0.05137, 2040-2059, gfdl_esm2g, Annual Anomaly, LBR
+0.30546, 2040-2059, gfdl_esm2m, Annual Anomaly, LBR
+-0.7044, 2040-2059, inmcm4, Annual Anomaly, LBR
+0.76527, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, LBR
+-0.1621, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, LBR
+-0.2055, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, LBR
+0.2455, 2040-2059, miroc5, Annual Anomaly, LBR
+0.37771, 2040-2059, miroc_esm_chem, Annual Anomaly, LBR
+0.74722, 2040-2059, miroc_esm, Annual Anomaly, LBR
+-0.3962, 2040-2059, mpi_esm_mr, Annual Anomaly, LBR
+-1.1815, 2040-2059, mri_cgcm3, Annual Anomaly, LBR
+-0.0981, 2040-2059, noresm1_m, Annual Anomaly, LBR
+0.46524, 2040-2059, access1_3, Annual Anomaly, MYS
+-0.1204, 2040-2059, bcc_csm1_1_m, Annual Anomaly, MYS
+0.01984, 2040-2059, bcc_csm1_1, Annual Anomaly, MYS
+0.52461, 2040-2059, bnu_esm, Annual Anomaly, MYS
+-0.0537, 2040-2059, canesm2, Annual Anomaly, MYS
+0.32146, 2040-2059, ccsm4, Annual Anomaly, MYS
+0.1925, 2040-2059, cesm1_bgc, Annual Anomaly, MYS
+0.4603, 2040-2059, cesm1_cam5, Annual Anomaly, MYS
+-0.0131, 2040-2059, cnrm_cm5, Annual Anomaly, MYS
+0.20196, 2040-2059, csiro_mk3_6_0, Annual Anomaly, MYS
+0.17398, 2040-2059, gfdl_cm3, Annual Anomaly, MYS
+-0.1292, 2040-2059, gfdl_esm2g, Annual Anomaly, MYS
+0.10862, 2040-2059, gfdl_esm2m, Annual Anomaly, MYS
+0.64962, 2040-2059, inmcm4, Annual Anomaly, MYS
+1.06619, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, MYS
+0.64769, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, MYS
+-0.1915, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, MYS
+1.07415, 2040-2059, miroc5, Annual Anomaly, MYS
+0.49195, 2040-2059, miroc_esm_chem, Annual Anomaly, MYS
+0.29962, 2040-2059, miroc_esm, Annual Anomaly, MYS
+0.44097, 2040-2059, mpi_esm_mr, Annual Anomaly, MYS
+0.23713, 2040-2059, mri_cgcm3, Annual Anomaly, MYS
+0.53675, 2040-2059, noresm1_m, Annual Anomaly, MYS
+-1.2038, 2040-2059, access1_3, Annual Anomaly, MLI
+-1.225, 2040-2059, bcc_csm1_1_m, Annual Anomaly, MLI
+-1.5642, 2040-2059, bcc_csm1_1, Annual Anomaly, MLI
+0.71724, 2040-2059, bnu_esm, Annual Anomaly, MLI
+-1.5589, 2040-2059, canesm2, Annual Anomaly, MLI
+-0.1381, 2040-2059, ccsm4, Annual Anomaly, MLI
+-0.8581, 2040-2059, cesm1_bgc, Annual Anomaly, MLI
+-1.1223, 2040-2059, cesm1_cam5, Annual Anomaly, MLI
+-0.3336, 2040-2059, cnrm_cm5, Annual Anomaly, MLI
+-0.7796, 2040-2059, csiro_mk3_6_0, Annual Anomaly, MLI
+-0.6525, 2040-2059, gfdl_cm3, Annual Anomaly, MLI
+0.32817, 2040-2059, gfdl_esm2g, Annual Anomaly, MLI
+-0.0414, 2040-2059, gfdl_esm2m, Annual Anomaly, MLI
+-0.3802, 2040-2059, inmcm4, Annual Anomaly, MLI
+-1.05, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, MLI
+-1.494, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, MLI
+-0.5396, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, MLI
+-0.4724, 2040-2059, miroc5, Annual Anomaly, MLI
+-0.0031, 2040-2059, miroc_esm_chem, Annual Anomaly, MLI
+0.22019, 2040-2059, miroc_esm, Annual Anomaly, MLI
+-1.6017, 2040-2059, mpi_esm_mr, Annual Anomaly, MLI
+-1.4331, 2040-2059, mri_cgcm3, Annual Anomaly, MLI
+-0.161, 2040-2059, noresm1_m, Annual Anomaly, MLI
+-0.5827, 2040-2059, access1_3, Annual Anomaly, MEX
+-0.663, 2040-2059, bcc_csm1_1_m, Annual Anomaly, MEX
+-0.236, 2040-2059, bcc_csm1_1, Annual Anomaly, MEX
+-0.5542, 2040-2059, bnu_esm, Annual Anomaly, MEX
+-1.1511, 2040-2059, canesm2, Annual Anomaly, MEX
+-0.5493, 2040-2059, ccsm4, Annual Anomaly, MEX
+-0.8356, 2040-2059, cesm1_bgc, Annual Anomaly, MEX
+-0.8422, 2040-2059, cesm1_cam5, Annual Anomaly, MEX
+-0.3391, 2040-2059, cnrm_cm5, Annual Anomaly, MEX
+-0.5815, 2040-2059, csiro_mk3_6_0, Annual Anomaly, MEX
+-0.8731, 2040-2059, gfdl_cm3, Annual Anomaly, MEX
+-0.586, 2040-2059, gfdl_esm2g, Annual Anomaly, MEX
+-0.4609, 2040-2059, gfdl_esm2m, Annual Anomaly, MEX
+-0.6974, 2040-2059, inmcm4, Annual Anomaly, MEX
+-1.3029, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, MEX
+-1.9652, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, MEX
+-0.4246, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, MEX
+-0.3978, 2040-2059, miroc5, Annual Anomaly, MEX
+-0.2652, 2040-2059, miroc_esm_chem, Annual Anomaly, MEX
+-0.5414, 2040-2059, miroc_esm, Annual Anomaly, MEX
+0.01141, 2040-2059, mpi_esm_mr, Annual Anomaly, MEX
+-0.3133, 2040-2059, mri_cgcm3, Annual Anomaly, MEX
+-1.3554, 2040-2059, noresm1_m, Annual Anomaly, MEX
+-0.7629, 2040-2059, access1_3, Annual Anomaly, MCO
+-0.6819, 2040-2059, bcc_csm1_1_m, Annual Anomaly, MCO
+-0.1534, 2040-2059, bcc_csm1_1, Annual Anomaly, MCO
+-0.3557, 2040-2059, bnu_esm, Annual Anomaly, MCO
+-0.5082, 2040-2059, canesm2, Annual Anomaly, MCO
+-0.9872, 2040-2059, ccsm4, Annual Anomaly, MCO
+-1.2233, 2040-2059, cesm1_bgc, Annual Anomaly, MCO
+-0.3066, 2040-2059, cesm1_cam5, Annual Anomaly, MCO
+0.36571, 2040-2059, cnrm_cm5, Annual Anomaly, MCO
+-0.8159, 2040-2059, csiro_mk3_6_0, Annual Anomaly, MCO
+-1.7875, 2040-2059, gfdl_cm3, Annual Anomaly, MCO
+0.22608, 2040-2059, gfdl_esm2g, Annual Anomaly, MCO
+-0.5569, 2040-2059, gfdl_esm2m, Annual Anomaly, MCO
+-0.6335, 2040-2059, inmcm4, Annual Anomaly, MCO
+-0.2803, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, MCO
+-0.5122, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, MCO
+-0.1934, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, MCO
+-0.5084, 2040-2059, miroc5, Annual Anomaly, MCO
+-0.4641, 2040-2059, miroc_esm_chem, Annual Anomaly, MCO
+-0.3489, 2040-2059, miroc_esm, Annual Anomaly, MCO
+-0.8182, 2040-2059, mpi_esm_mr, Annual Anomaly, MCO
+-0.2797, 2040-2059, mri_cgcm3, Annual Anomaly, MCO
+-0.8913, 2040-2059, noresm1_m, Annual Anomaly, MCO
+-2.1799, 2040-2059, access1_3, Annual Anomaly, MAR
+-2.0732, 2040-2059, bcc_csm1_1_m, Annual Anomaly, MAR
+-0.9451, 2040-2059, bcc_csm1_1, Annual Anomaly, MAR
+-1.2258, 2040-2059, bnu_esm, Annual Anomaly, MAR
+-1.6035, 2040-2059, canesm2, Annual Anomaly, MAR
+-1.3539, 2040-2059, ccsm4, Annual Anomaly, MAR
+-1.2703, 2040-2059, cesm1_bgc, Annual Anomaly, MAR
+-0.8294, 2040-2059, cesm1_cam5, Annual Anomaly, MAR
+-0.5061, 2040-2059, cnrm_cm5, Annual Anomaly, MAR
+-1.3449, 2040-2059, csiro_mk3_6_0, Annual Anomaly, MAR
+-2.4931, 2040-2059, gfdl_cm3, Annual Anomaly, MAR
+-0.3862, 2040-2059, gfdl_esm2g, Annual Anomaly, MAR
+-0.5858, 2040-2059, gfdl_esm2m, Annual Anomaly, MAR
+-0.7216, 2040-2059, inmcm4, Annual Anomaly, MAR
+-2.4678, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, MAR
+-2.616, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, MAR
+-1.0683, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, MAR
+-1.1211, 2040-2059, miroc5, Annual Anomaly, MAR
+-1.5334, 2040-2059, miroc_esm_chem, Annual Anomaly, MAR
+-1.3824, 2040-2059, miroc_esm, Annual Anomaly, MAR
+-1.022, 2040-2059, mpi_esm_mr, Annual Anomaly, MAR
+-0.6342, 2040-2059, mri_cgcm3, Annual Anomaly, MAR
+-1.4208, 2040-2059, noresm1_m, Annual Anomaly, MAR
+-0.2735, 2040-2059, access1_3, Annual Anomaly, NCL
+0.13537, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NCL
+0.59862, 2040-2059, bcc_csm1_1, Annual Anomaly, NCL
+0.47003, 2040-2059, bnu_esm, Annual Anomaly, NCL
+0.08346, 2040-2059, canesm2, Annual Anomaly, NCL
+0.5247, 2040-2059, ccsm4, Annual Anomaly, NCL
+0.21993, 2040-2059, cesm1_bgc, Annual Anomaly, NCL
+-0.1608, 2040-2059, cesm1_cam5, Annual Anomaly, NCL
+-0.1147, 2040-2059, cnrm_cm5, Annual Anomaly, NCL
+-0.1664, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NCL
+-1.0801, 2040-2059, gfdl_cm3, Annual Anomaly, NCL
+0.40199, 2040-2059, gfdl_esm2g, Annual Anomaly, NCL
+-0.0682, 2040-2059, gfdl_esm2m, Annual Anomaly, NCL
+0.3997, 2040-2059, inmcm4, Annual Anomaly, NCL
+-0.211, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NCL
+-0.0653, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NCL
+-0.3135, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, NCL
+0.38245, 2040-2059, miroc5, Annual Anomaly, NCL
+-0.49, 2040-2059, miroc_esm_chem, Annual Anomaly, NCL
+-0.8161, 2040-2059, miroc_esm, Annual Anomaly, NCL
+-0.4193, 2040-2059, mpi_esm_mr, Annual Anomaly, NCL
+-0.0792, 2040-2059, mri_cgcm3, Annual Anomaly, NCL
+0.00676, 2040-2059, noresm1_m, Annual Anomaly, NCL
+-1.2324, 2040-2059, access1_3, Annual Anomaly, NER
+-0.9952, 2040-2059, bcc_csm1_1_m, Annual Anomaly, NER
+-1.4061, 2040-2059, bcc_csm1_1, Annual Anomaly, NER
+0.75448, 2040-2059, bnu_esm, Annual Anomaly, NER
+-0.8859, 2040-2059, canesm2, Annual Anomaly, NER
+-0.1191, 2040-2059, ccsm4, Annual Anomaly, NER
+-0.8506, 2040-2059, cesm1_bgc, Annual Anomaly, NER
+-1.0168, 2040-2059, cesm1_cam5, Annual Anomaly, NER
+-0.1973, 2040-2059, cnrm_cm5, Annual Anomaly, NER
+-0.6305, 2040-2059, csiro_mk3_6_0, Annual Anomaly, NER
+-0.4259, 2040-2059, gfdl_cm3, Annual Anomaly, NER
+0.02738, 2040-2059, gfdl_esm2g, Annual Anomaly, NER
+-0.4019, 2040-2059, gfdl_esm2m, Annual Anomaly, NER
+-0.2161, 2040-2059, inmcm4, Annual Anomaly, NER
+-0.864, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, NER
+-0.9487, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, NER
+-0.9459, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, NER
+-0.3367, 2040-2059, miroc5, Annual Anomaly, NER
+-0.0347, 2040-2059, miroc_esm_chem, Annual Anomaly, NER
+0.03603, 2040-2059, miroc_esm, Annual Anomaly, NER
+-1.905, 2040-2059, mpi_esm_mr, Annual Anomaly, NER
+-1.2728, 2040-2059, mri_cgcm3, Annual Anomaly, NER
+-0.2055, 2040-2059, noresm1_m, Annual Anomaly, NER
+0.26023, 2040-2059, access1_3, Annual Anomaly, PER
+0.06171, 2040-2059, bcc_csm1_1_m, Annual Anomaly, PER
+0.27316, 2040-2059, bcc_csm1_1, Annual Anomaly, PER
+-0.0084, 2040-2059, bnu_esm, Annual Anomaly, PER
+-0.6524, 2040-2059, canesm2, Annual Anomaly, PER
+-0.1225, 2040-2059, ccsm4, Annual Anomaly, PER
+-0.0868, 2040-2059, cesm1_bgc, Annual Anomaly, PER
+-0.0889, 2040-2059, cesm1_cam5, Annual Anomaly, PER
+0.25803, 2040-2059, cnrm_cm5, Annual Anomaly, PER
+-0.4119, 2040-2059, csiro_mk3_6_0, Annual Anomaly, PER
+-1.6582, 2040-2059, gfdl_cm3, Annual Anomaly, PER
+-0.2431, 2040-2059, gfdl_esm2g, Annual Anomaly, PER
+-0.0749, 2040-2059, gfdl_esm2m, Annual Anomaly, PER
+0.44483, 2040-2059, inmcm4, Annual Anomaly, PER
+-0.259, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, PER
+-0.0377, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, PER
+-0.5892, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, PER
+0.18289, 2040-2059, miroc5, Annual Anomaly, PER
+-0.3479, 2040-2059, miroc_esm_chem, Annual Anomaly, PER
+-0.8196, 2040-2059, miroc_esm, Annual Anomaly, PER
+0.18299, 2040-2059, mpi_esm_mr, Annual Anomaly, PER
+0.26424, 2040-2059, mri_cgcm3, Annual Anomaly, PER
+0.37724, 2040-2059, noresm1_m, Annual Anomaly, PER
+0.27012, 2040-2059, access1_3, Annual Anomaly, PHL
+0.11299, 2040-2059, bcc_csm1_1_m, Annual Anomaly, PHL
+0.0114, 2040-2059, bcc_csm1_1, Annual Anomaly, PHL
+0.06644, 2040-2059, bnu_esm, Annual Anomaly, PHL
+0.16417, 2040-2059, canesm2, Annual Anomaly, PHL
+0.6331, 2040-2059, ccsm4, Annual Anomaly, PHL
+0.07062, 2040-2059, cesm1_bgc, Annual Anomaly, PHL
+0.14218, 2040-2059, cesm1_cam5, Annual Anomaly, PHL
+0.51078, 2040-2059, cnrm_cm5, Annual Anomaly, PHL
+0.2278, 2040-2059, csiro_mk3_6_0, Annual Anomaly, PHL
+0.09261, 2040-2059, gfdl_cm3, Annual Anomaly, PHL
+0.59214, 2040-2059, gfdl_esm2g, Annual Anomaly, PHL
+0.46152, 2040-2059, gfdl_esm2m, Annual Anomaly, PHL
+0.96478, 2040-2059, inmcm4, Annual Anomaly, PHL
+0.1577, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, PHL
+0.52357, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, PHL
+-0.3375, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, PHL
+0.07706, 2040-2059, miroc5, Annual Anomaly, PHL
+0.62576, 2040-2059, miroc_esm_chem, Annual Anomaly, PHL
+0.12976, 2040-2059, miroc_esm, Annual Anomaly, PHL
+-0.0219, 2040-2059, mpi_esm_mr, Annual Anomaly, PHL
+0.00225, 2040-2059, mri_cgcm3, Annual Anomaly, PHL
+0.56636, 2040-2059, noresm1_m, Annual Anomaly, PHL
+-0.3914, 2040-2059, access1_3, Annual Anomaly, POL
+-0.0141, 2040-2059, bcc_csm1_1_m, Annual Anomaly, POL
+-0.3884, 2040-2059, bcc_csm1_1, Annual Anomaly, POL
+-0.4717, 2040-2059, bnu_esm, Annual Anomaly, POL
+0.17112, 2040-2059, canesm2, Annual Anomaly, POL
+-0.7699, 2040-2059, ccsm4, Annual Anomaly, POL
+-0.7363, 2040-2059, cesm1_bgc, Annual Anomaly, POL
+-0.4033, 2040-2059, cesm1_cam5, Annual Anomaly, POL
+0.17986, 2040-2059, cnrm_cm5, Annual Anomaly, POL
+0.03594, 2040-2059, csiro_mk3_6_0, Annual Anomaly, POL
+-0.3016, 2040-2059, gfdl_cm3, Annual Anomaly, POL
+-0.1958, 2040-2059, gfdl_esm2g, Annual Anomaly, POL
+0.09013, 2040-2059, gfdl_esm2m, Annual Anomaly, POL
+-0.1088, 2040-2059, inmcm4, Annual Anomaly, POL
+-0.0477, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, POL
+-0.5988, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, POL
+-0.2349, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, POL
+-0.7237, 2040-2059, miroc5, Annual Anomaly, POL
+0.04416, 2040-2059, miroc_esm_chem, Annual Anomaly, POL
+0.7872, 2040-2059, miroc_esm, Annual Anomaly, POL
+-0.4409, 2040-2059, mpi_esm_mr, Annual Anomaly, POL
+-0.0416, 2040-2059, mri_cgcm3, Annual Anomaly, POL
+-0.3477, 2040-2059, noresm1_m, Annual Anomaly, POL
+-1.4415, 2040-2059, access1_3, Annual Anomaly, PRI
+-1.4149, 2040-2059, bcc_csm1_1_m, Annual Anomaly, PRI
+-0.912, 2040-2059, bcc_csm1_1, Annual Anomaly, PRI
+-0.689, 2040-2059, bnu_esm, Annual Anomaly, PRI
+-0.7391, 2040-2059, canesm2, Annual Anomaly, PRI
+-1.2867, 2040-2059, ccsm4, Annual Anomaly, PRI
+-1.9999, 2040-2059, cesm1_bgc, Annual Anomaly, PRI
+-1.1698, 2040-2059, cesm1_cam5, Annual Anomaly, PRI
+-0.0105, 2040-2059, cnrm_cm5, Annual Anomaly, PRI
+-0.6442, 2040-2059, csiro_mk3_6_0, Annual Anomaly, PRI
+-0.2869, 2040-2059, gfdl_cm3, Annual Anomaly, PRI
+-0.4969, 2040-2059, gfdl_esm2g, Annual Anomaly, PRI
+0.03033, 2040-2059, gfdl_esm2m, Annual Anomaly, PRI
+-0.6449, 2040-2059, inmcm4, Annual Anomaly, PRI
+-1.2111, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, PRI
+-1.5328, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, PRI
+-0.545, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, PRI
+-0.9444, 2040-2059, miroc5, Annual Anomaly, PRI
+-0.4624, 2040-2059, miroc_esm_chem, Annual Anomaly, PRI
+0.52001, 2040-2059, miroc_esm, Annual Anomaly, PRI
+-0.9162, 2040-2059, mpi_esm_mr, Annual Anomaly, PRI
+-0.0027, 2040-2059, mri_cgcm3, Annual Anomaly, PRI
+-1.0278, 2040-2059, noresm1_m, Annual Anomaly, PRI
+-0.5176, 2040-2059, access1_3, Annual Anomaly, MNE
+-0.3169, 2040-2059, bcc_csm1_1_m, Annual Anomaly, MNE
+-0.6689, 2040-2059, bcc_csm1_1, Annual Anomaly, MNE
+-1.3479, 2040-2059, bnu_esm, Annual Anomaly, MNE
+-0.8039, 2040-2059, canesm2, Annual Anomaly, MNE
+-1.0082, 2040-2059, ccsm4, Annual Anomaly, MNE
+-0.3884, 2040-2059, cesm1_bgc, Annual Anomaly, MNE
+0.03754, 2040-2059, cesm1_cam5, Annual Anomaly, MNE
+-0.1648, 2040-2059, cnrm_cm5, Annual Anomaly, MNE
+-1.2119, 2040-2059, csiro_mk3_6_0, Annual Anomaly, MNE
+-1.7961, 2040-2059, gfdl_cm3, Annual Anomaly, MNE
+-0.1356, 2040-2059, gfdl_esm2g, Annual Anomaly, MNE
+-0.8194, 2040-2059, gfdl_esm2m, Annual Anomaly, MNE
+-0.9688, 2040-2059, inmcm4, Annual Anomaly, MNE
+-0.3228, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, MNE
+-0.8894, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, MNE
+-0.0139, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, MNE
+-1.074, 2040-2059, miroc5, Annual Anomaly, MNE
+-1.8109, 2040-2059, miroc_esm_chem, Annual Anomaly, MNE
+-1.1231, 2040-2059, miroc_esm, Annual Anomaly, MNE
+-0.2138, 2040-2059, mpi_esm_mr, Annual Anomaly, MNE
+0.31575, 2040-2059, mri_cgcm3, Annual Anomaly, MNE
+-0.8833, 2040-2059, noresm1_m, Annual Anomaly, MNE
+0.17145, 2040-2059, access1_3, Annual Anomaly, WSM
+0.32751, 2040-2059, bcc_csm1_1_m, Annual Anomaly, WSM
+0.10627, 2040-2059, bcc_csm1_1, Annual Anomaly, WSM
+0.4008, 2040-2059, bnu_esm, Annual Anomaly, WSM
+-0.3353, 2040-2059, canesm2, Annual Anomaly, WSM
+0.38433, 2040-2059, ccsm4, Annual Anomaly, WSM
+0.56952, 2040-2059, cesm1_bgc, Annual Anomaly, WSM
+0.51797, 2040-2059, cesm1_cam5, Annual Anomaly, WSM
+0.56707, 2040-2059, cnrm_cm5, Annual Anomaly, WSM
+-0.725, 2040-2059, csiro_mk3_6_0, Annual Anomaly, WSM
+0.41438, 2040-2059, gfdl_cm3, Annual Anomaly, WSM
+-0.6117, 2040-2059, gfdl_esm2g, Annual Anomaly, WSM
+0.03309, 2040-2059, gfdl_esm2m, Annual Anomaly, WSM
+0.80178, 2040-2059, inmcm4, Annual Anomaly, WSM
+0.30573, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, WSM
+0.30243, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, WSM
+0.28777, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, WSM
+-0.8438, 2040-2059, miroc5, Annual Anomaly, WSM
+-1.4705, 2040-2059, miroc_esm_chem, Annual Anomaly, WSM
+-1.9027, 2040-2059, miroc_esm, Annual Anomaly, WSM
+0.15843, 2040-2059, mpi_esm_mr, Annual Anomaly, WSM
+-0.7229, 2040-2059, mri_cgcm3, Annual Anomaly, WSM
+-0.3356, 2040-2059, noresm1_m, Annual Anomaly, WSM
+0.82378, 2040-2059, access1_3, Annual Anomaly, SYC
+-0.0826, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SYC
+-0.0095, 2040-2059, bcc_csm1_1, Annual Anomaly, SYC
+0.61605, 2040-2059, bnu_esm, Annual Anomaly, SYC
+0.64394, 2040-2059, canesm2, Annual Anomaly, SYC
+0.16341, 2040-2059, ccsm4, Annual Anomaly, SYC
+-0.0185, 2040-2059, cesm1_bgc, Annual Anomaly, SYC
+0.57804, 2040-2059, cesm1_cam5, Annual Anomaly, SYC
+0.26865, 2040-2059, cnrm_cm5, Annual Anomaly, SYC
+0.20877, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SYC
+0.1444, 2040-2059, gfdl_cm3, Annual Anomaly, SYC
+0.0985, 2040-2059, gfdl_esm2g, Annual Anomaly, SYC
+-0.0793, 2040-2059, gfdl_esm2m, Annual Anomaly, SYC
+0.10252, 2040-2059, inmcm4, Annual Anomaly, SYC
+0.67053, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SYC
+0.11072, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SYC
+0.07923, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SYC
+-0.2388, 2040-2059, miroc5, Annual Anomaly, SYC
+-0.1095, 2040-2059, miroc_esm_chem, Annual Anomaly, SYC
+0.61088, 2040-2059, miroc_esm, Annual Anomaly, SYC
+0.3901, 2040-2059, mpi_esm_mr, Annual Anomaly, SYC
+-0.0341, 2040-2059, mri_cgcm3, Annual Anomaly, SYC
+-0.4393, 2040-2059, noresm1_m, Annual Anomaly, SYC
+-0.088, 2040-2059, access1_3, Annual Anomaly, SGP
+-0.2374, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SGP
+-0.149, 2040-2059, bcc_csm1_1, Annual Anomaly, SGP
+0.42721, 2040-2059, bnu_esm, Annual Anomaly, SGP
+0.32824, 2040-2059, canesm2, Annual Anomaly, SGP
+-0.205, 2040-2059, ccsm4, Annual Anomaly, SGP
+-0.2371, 2040-2059, cesm1_bgc, Annual Anomaly, SGP
+0.78701, 2040-2059, cesm1_cam5, Annual Anomaly, SGP
+-0.3271, 2040-2059, cnrm_cm5, Annual Anomaly, SGP
+0.17825, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SGP
+0.25594, 2040-2059, gfdl_cm3, Annual Anomaly, SGP
+0.01246, 2040-2059, gfdl_esm2g, Annual Anomaly, SGP
+-0.0029, 2040-2059, gfdl_esm2m, Annual Anomaly, SGP
+-0.7592, 2040-2059, inmcm4, Annual Anomaly, SGP
+1.25557, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SGP
+0.07055, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SGP
+-0.2689, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SGP
+0.47085, 2040-2059, miroc5, Annual Anomaly, SGP
+0.895, 2040-2059, miroc_esm_chem, Annual Anomaly, SGP
+1.04023, 2040-2059, miroc_esm, Annual Anomaly, SGP
+0.13487, 2040-2059, mpi_esm_mr, Annual Anomaly, SGP
+0.20156, 2040-2059, mri_cgcm3, Annual Anomaly, SGP
+0.08932, 2040-2059, noresm1_m, Annual Anomaly, SGP
+-0.6171, 2040-2059, access1_3, Annual Anomaly, SVK
+-0.2425, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SVK
+-0.6667, 2040-2059, bcc_csm1_1, Annual Anomaly, SVK
+-0.542, 2040-2059, bnu_esm, Annual Anomaly, SVK
+-0.3139, 2040-2059, canesm2, Annual Anomaly, SVK
+-0.6037, 2040-2059, ccsm4, Annual Anomaly, SVK
+-0.6589, 2040-2059, cesm1_bgc, Annual Anomaly, SVK
+0.1557, 2040-2059, cesm1_cam5, Annual Anomaly, SVK
+-0.0678, 2040-2059, cnrm_cm5, Annual Anomaly, SVK
+-0.5191, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SVK
+-0.7608, 2040-2059, gfdl_cm3, Annual Anomaly, SVK
+-0.1014, 2040-2059, gfdl_esm2g, Annual Anomaly, SVK
+-0.3092, 2040-2059, gfdl_esm2m, Annual Anomaly, SVK
+-0.4893, 2040-2059, inmcm4, Annual Anomaly, SVK
+-0.1777, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SVK
+-0.6587, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SVK
+-0.1043, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SVK
+-0.9737, 2040-2059, miroc5, Annual Anomaly, SVK
+-0.4413, 2040-2059, miroc_esm_chem, Annual Anomaly, SVK
+0.62132, 2040-2059, miroc_esm, Annual Anomaly, SVK
+-0.6003, 2040-2059, mpi_esm_mr, Annual Anomaly, SVK
+-0.0299, 2040-2059, mri_cgcm3, Annual Anomaly, SVK
+-0.3718, 2040-2059, noresm1_m, Annual Anomaly, SVK
+-0.2272, 2040-2059, access1_3, Annual Anomaly, SVN
+-0.4907, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SVN
+-0.3793, 2040-2059, bcc_csm1_1, Annual Anomaly, SVN
+-0.6675, 2040-2059, bnu_esm, Annual Anomaly, SVN
+-0.4767, 2040-2059, canesm2, Annual Anomaly, SVN
+-0.9825, 2040-2059, ccsm4, Annual Anomaly, SVN
+-0.7701, 2040-2059, cesm1_bgc, Annual Anomaly, SVN
+0.00439, 2040-2059, cesm1_cam5, Annual Anomaly, SVN
+-0.1588, 2040-2059, cnrm_cm5, Annual Anomaly, SVN
+-0.8994, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SVN
+-1.2807, 2040-2059, gfdl_cm3, Annual Anomaly, SVN
+-0.1326, 2040-2059, gfdl_esm2g, Annual Anomaly, SVN
+-0.291, 2040-2059, gfdl_esm2m, Annual Anomaly, SVN
+-0.6632, 2040-2059, inmcm4, Annual Anomaly, SVN
+-0.116, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SVN
+-0.6941, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SVN
+0.23145, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SVN
+-0.7949, 2040-2059, miroc5, Annual Anomaly, SVN
+-0.2646, 2040-2059, miroc_esm_chem, Annual Anomaly, SVN
+-0.0201, 2040-2059, miroc_esm, Annual Anomaly, SVN
+-0.7138, 2040-2059, mpi_esm_mr, Annual Anomaly, SVN
+-0.2348, 2040-2059, mri_cgcm3, Annual Anomaly, SVN
+-0.6545, 2040-2059, noresm1_m, Annual Anomaly, SVN
+0.15811, 2040-2059, access1_3, Annual Anomaly, SSD
+0.08495, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SSD
+-0.3545, 2040-2059, bcc_csm1_1, Annual Anomaly, SSD
+1.57264, 2040-2059, bnu_esm, Annual Anomaly, SSD
+1.16095, 2040-2059, canesm2, Annual Anomaly, SSD
+0.06511, 2040-2059, ccsm4, Annual Anomaly, SSD
+0.36991, 2040-2059, cesm1_bgc, Annual Anomaly, SSD
+0.15237, 2040-2059, cesm1_cam5, Annual Anomaly, SSD
+0.13538, 2040-2059, cnrm_cm5, Annual Anomaly, SSD
+-1.4356, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SSD
+0.69342, 2040-2059, gfdl_cm3, Annual Anomaly, SSD
+-0.0693, 2040-2059, gfdl_esm2g, Annual Anomaly, SSD
+-0.1574, 2040-2059, gfdl_esm2m, Annual Anomaly, SSD
+-0.3888, 2040-2059, inmcm4, Annual Anomaly, SSD
+1.0746, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SSD
+-0.2332, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SSD
+0.30101, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SSD
+-0.558, 2040-2059, miroc5, Annual Anomaly, SSD
+-0.3108, 2040-2059, miroc_esm_chem, Annual Anomaly, SSD
+-0.2394, 2040-2059, miroc_esm, Annual Anomaly, SSD
+-0.258, 2040-2059, mpi_esm_mr, Annual Anomaly, SSD
+-0.5003, 2040-2059, mri_cgcm3, Annual Anomaly, SSD
+-0.4005, 2040-2059, noresm1_m, Annual Anomaly, SSD
+-0.8883, 2040-2059, access1_3, Annual Anomaly, ESP
+-1.0818, 2040-2059, bcc_csm1_1_m, Annual Anomaly, ESP
+-0.8599, 2040-2059, bcc_csm1_1, Annual Anomaly, ESP
+-0.8268, 2040-2059, bnu_esm, Annual Anomaly, ESP
+-1.3551, 2040-2059, canesm2, Annual Anomaly, ESP
+-1.091, 2040-2059, ccsm4, Annual Anomaly, ESP
+-1.2341, 2040-2059, cesm1_bgc, Annual Anomaly, ESP
+-0.4708, 2040-2059, cesm1_cam5, Annual Anomaly, ESP
+-0.2593, 2040-2059, cnrm_cm5, Annual Anomaly, ESP
+-1.5247, 2040-2059, csiro_mk3_6_0, Annual Anomaly, ESP
+-2.3317, 2040-2059, gfdl_cm3, Annual Anomaly, ESP
+-0.4985, 2040-2059, gfdl_esm2g, Annual Anomaly, ESP
+-1.2112, 2040-2059, gfdl_esm2m, Annual Anomaly, ESP
+-0.7751, 2040-2059, inmcm4, Annual Anomaly, ESP
+-0.7263, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, ESP
+-1.0197, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, ESP
+-0.8274, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, ESP
+-0.7434, 2040-2059, miroc5, Annual Anomaly, ESP
+-1.3179, 2040-2059, miroc_esm_chem, Annual Anomaly, ESP
+-1.2255, 2040-2059, miroc_esm, Annual Anomaly, ESP
+-1.0581, 2040-2059, mpi_esm_mr, Annual Anomaly, ESP
+-0.4805, 2040-2059, mri_cgcm3, Annual Anomaly, ESP
+-1.0956, 2040-2059, noresm1_m, Annual Anomaly, ESP
+-0.5875, 2040-2059, access1_3, Annual Anomaly, SDN
+-1.1792, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SDN
+-1.2181, 2040-2059, bcc_csm1_1, Annual Anomaly, SDN
+0.97583, 2040-2059, bnu_esm, Annual Anomaly, SDN
+-0.4101, 2040-2059, canesm2, Annual Anomaly, SDN
+-0.2777, 2040-2059, ccsm4, Annual Anomaly, SDN
+-0.5813, 2040-2059, cesm1_bgc, Annual Anomaly, SDN
+-0.8328, 2040-2059, cesm1_cam5, Annual Anomaly, SDN
+-0.334, 2040-2059, cnrm_cm5, Annual Anomaly, SDN
+-1.47, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SDN
+-0.6669, 2040-2059, gfdl_cm3, Annual Anomaly, SDN
+-0.792, 2040-2059, gfdl_esm2g, Annual Anomaly, SDN
+-0.8717, 2040-2059, gfdl_esm2m, Annual Anomaly, SDN
+-0.274, 2040-2059, inmcm4, Annual Anomaly, SDN
+-0.9283, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SDN
+-0.6821, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SDN
+-1.3129, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SDN
+-0.1525, 2040-2059, miroc5, Annual Anomaly, SDN
+0.06317, 2040-2059, miroc_esm_chem, Annual Anomaly, SDN
+-0.081, 2040-2059, miroc_esm, Annual Anomaly, SDN
+-1.5159, 2040-2059, mpi_esm_mr, Annual Anomaly, SDN
+-1.1168, 2040-2059, mri_cgcm3, Annual Anomaly, SDN
+0.17357, 2040-2059, noresm1_m, Annual Anomaly, SDN
+-1.419, 2040-2059, access1_3, Annual Anomaly, SUR
+-0.2894, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SUR
+-0.3634, 2040-2059, bcc_csm1_1, Annual Anomaly, SUR
+-0.3746, 2040-2059, bnu_esm, Annual Anomaly, SUR
+-1.4715, 2040-2059, canesm2, Annual Anomaly, SUR
+-0.444, 2040-2059, ccsm4, Annual Anomaly, SUR
+-0.6281, 2040-2059, cesm1_bgc, Annual Anomaly, SUR
+-0.8411, 2040-2059, cesm1_cam5, Annual Anomaly, SUR
+-0.0383, 2040-2059, cnrm_cm5, Annual Anomaly, SUR
+-0.3672, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SUR
+-0.8507, 2040-2059, gfdl_cm3, Annual Anomaly, SUR
+-0.8753, 2040-2059, gfdl_esm2g, Annual Anomaly, SUR
+0.11822, 2040-2059, gfdl_esm2m, Annual Anomaly, SUR
+0.56931, 2040-2059, inmcm4, Annual Anomaly, SUR
+0.97345, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SUR
+0.99672, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SUR
+-0.7877, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SUR
+0.07935, 2040-2059, miroc5, Annual Anomaly, SUR
+-0.9385, 2040-2059, miroc_esm_chem, Annual Anomaly, SUR
+-0.9128, 2040-2059, miroc_esm, Annual Anomaly, SUR
+-0.8347, 2040-2059, mpi_esm_mr, Annual Anomaly, SUR
+0.41873, 2040-2059, mri_cgcm3, Annual Anomaly, SUR
+-0.9967, 2040-2059, noresm1_m, Annual Anomaly, SUR
+-0.0325, 2040-2059, access1_3, Annual Anomaly, SWZ
+-0.8015, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SWZ
+-0.0754, 2040-2059, bcc_csm1_1, Annual Anomaly, SWZ
+-0.3704, 2040-2059, bnu_esm, Annual Anomaly, SWZ
+-0.9124, 2040-2059, canesm2, Annual Anomaly, SWZ
+-0.3719, 2040-2059, ccsm4, Annual Anomaly, SWZ
+0.24742, 2040-2059, cesm1_bgc, Annual Anomaly, SWZ
+-0.7112, 2040-2059, cesm1_cam5, Annual Anomaly, SWZ
+-0.169, 2040-2059, cnrm_cm5, Annual Anomaly, SWZ
+-0.2112, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SWZ
+-0.6974, 2040-2059, gfdl_cm3, Annual Anomaly, SWZ
+-0.3172, 2040-2059, gfdl_esm2g, Annual Anomaly, SWZ
+0.3535, 2040-2059, gfdl_esm2m, Annual Anomaly, SWZ
+-0.84, 2040-2059, inmcm4, Annual Anomaly, SWZ
+0.03463, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SWZ
+-0.1744, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SWZ
+-0.5055, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SWZ
+-0.0539, 2040-2059, miroc5, Annual Anomaly, SWZ
+-1.2453, 2040-2059, miroc_esm_chem, Annual Anomaly, SWZ
+-0.871, 2040-2059, miroc_esm, Annual Anomaly, SWZ
+-0.4986, 2040-2059, mpi_esm_mr, Annual Anomaly, SWZ
+-0.1801, 2040-2059, mri_cgcm3, Annual Anomaly, SWZ
+0.74809, 2040-2059, noresm1_m, Annual Anomaly, SWZ
+0.52857, 2040-2059, access1_3, Annual Anomaly, SWE
+0.02474, 2040-2059, bcc_csm1_1_m, Annual Anomaly, SWE
+0.27312, 2040-2059, bcc_csm1_1, Annual Anomaly, SWE
+0.44791, 2040-2059, bnu_esm, Annual Anomaly, SWE
+0.26622, 2040-2059, canesm2, Annual Anomaly, SWE
+-0.1185, 2040-2059, ccsm4, Annual Anomaly, SWE
+-0.1007, 2040-2059, cesm1_bgc, Annual Anomaly, SWE
+-0.1822, 2040-2059, cesm1_cam5, Annual Anomaly, SWE
+0.45504, 2040-2059, cnrm_cm5, Annual Anomaly, SWE
+0.69124, 2040-2059, csiro_mk3_6_0, Annual Anomaly, SWE
+0.82311, 2040-2059, gfdl_cm3, Annual Anomaly, SWE
+0.15525, 2040-2059, gfdl_esm2g, Annual Anomaly, SWE
+0.75948, 2040-2059, gfdl_esm2m, Annual Anomaly, SWE
+-0.0255, 2040-2059, inmcm4, Annual Anomaly, SWE
+0.09543, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, SWE
+0.33037, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, SWE
+-0.0335, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, SWE
+-0.0599, 2040-2059, miroc5, Annual Anomaly, SWE
+0.71439, 2040-2059, miroc_esm_chem, Annual Anomaly, SWE
+0.47507, 2040-2059, miroc_esm, Annual Anomaly, SWE
+0.21501, 2040-2059, mpi_esm_mr, Annual Anomaly, SWE
+0.64745, 2040-2059, mri_cgcm3, Annual Anomaly, SWE
+-0.3339, 2040-2059, noresm1_m, Annual Anomaly, SWE
+-0.1285, 2040-2059, access1_3, Annual Anomaly, TJK
+-1.1722, 2040-2059, bcc_csm1_1_m, Annual Anomaly, TJK
+-0.9239, 2040-2059, bcc_csm1_1, Annual Anomaly, TJK
+-0.9117, 2040-2059, bnu_esm, Annual Anomaly, TJK
+-0.3738, 2040-2059, canesm2, Annual Anomaly, TJK
+-0.3003, 2040-2059, ccsm4, Annual Anomaly, TJK
+-0.2613, 2040-2059, cesm1_bgc, Annual Anomaly, TJK
+-0.0812, 2040-2059, cesm1_cam5, Annual Anomaly, TJK
+0.09915, 2040-2059, cnrm_cm5, Annual Anomaly, TJK
+-1.2217, 2040-2059, csiro_mk3_6_0, Annual Anomaly, TJK
+-1.1971, 2040-2059, gfdl_cm3, Annual Anomaly, TJK
+-0.8018, 2040-2059, gfdl_esm2g, Annual Anomaly, TJK
+-0.3219, 2040-2059, gfdl_esm2m, Annual Anomaly, TJK
+-0.3064, 2040-2059, inmcm4, Annual Anomaly, TJK
+-1.733, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, TJK
+-1.6182, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, TJK
+-0.4468, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, TJK
+-0.7663, 2040-2059, miroc5, Annual Anomaly, TJK
+-0.536, 2040-2059, miroc_esm_chem, Annual Anomaly, TJK
+0.04793, 2040-2059, miroc_esm, Annual Anomaly, TJK
+-0.1493, 2040-2059, mpi_esm_mr, Annual Anomaly, TJK
+0.54755, 2040-2059, mri_cgcm3, Annual Anomaly, TJK
+-1.0529, 2040-2059, noresm1_m, Annual Anomaly, TJK
+0.606, 2040-2059, access1_3, Annual Anomaly, TZA
+0.47462, 2040-2059, bcc_csm1_1_m, Annual Anomaly, TZA
+-0.2712, 2040-2059, bcc_csm1_1, Annual Anomaly, TZA
+0.4367, 2040-2059, bnu_esm, Annual Anomaly, TZA
+0.64598, 2040-2059, canesm2, Annual Anomaly, TZA
+0.36964, 2040-2059, ccsm4, Annual Anomaly, TZA
+-0.1697, 2040-2059, cesm1_bgc, Annual Anomaly, TZA
+-0.1904, 2040-2059, cesm1_cam5, Annual Anomaly, TZA
+0.32411, 2040-2059, cnrm_cm5, Annual Anomaly, TZA
+-0.4105, 2040-2059, csiro_mk3_6_0, Annual Anomaly, TZA
+0.08829, 2040-2059, gfdl_cm3, Annual Anomaly, TZA
+-0.4761, 2040-2059, gfdl_esm2g, Annual Anomaly, TZA
+-0.5198, 2040-2059, gfdl_esm2m, Annual Anomaly, TZA
+-0.4458, 2040-2059, inmcm4, Annual Anomaly, TZA
+0.49521, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, TZA
+0.25671, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, TZA
+-0.4726, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, TZA
+-0.9317, 2040-2059, miroc5, Annual Anomaly, TZA
+0.16014, 2040-2059, miroc_esm_chem, Annual Anomaly, TZA
+0.46852, 2040-2059, miroc_esm, Annual Anomaly, TZA
+0.06364, 2040-2059, mpi_esm_mr, Annual Anomaly, TZA
+-0.325, 2040-2059, mri_cgcm3, Annual Anomaly, TZA
+-0.5971, 2040-2059, noresm1_m, Annual Anomaly, TZA
+-0.5177, 2040-2059, access1_3, Annual Anomaly, THA
+-0.0507, 2040-2059, bcc_csm1_1_m, Annual Anomaly, THA
+0.25465, 2040-2059, bcc_csm1_1, Annual Anomaly, THA
+0.15297, 2040-2059, bnu_esm, Annual Anomaly, THA
+-0.1328, 2040-2059, canesm2, Annual Anomaly, THA
+-0.0796, 2040-2059, ccsm4, Annual Anomaly, THA
+0.3377, 2040-2059, cesm1_bgc, Annual Anomaly, THA
+0.0015, 2040-2059, cesm1_cam5, Annual Anomaly, THA
+0.31603, 2040-2059, cnrm_cm5, Annual Anomaly, THA
+0.21275, 2040-2059, csiro_mk3_6_0, Annual Anomaly, THA
+-0.424, 2040-2059, gfdl_cm3, Annual Anomaly, THA
+0.31124, 2040-2059, gfdl_esm2g, Annual Anomaly, THA
+-0.0813, 2040-2059, gfdl_esm2m, Annual Anomaly, THA
+0.13394, 2040-2059, inmcm4, Annual Anomaly, THA
+0.04873, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, THA
+-0.1891, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, THA
+-0.1489, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, THA
+0.41063, 2040-2059, miroc5, Annual Anomaly, THA
+0.2051, 2040-2059, miroc_esm_chem, Annual Anomaly, THA
+0.33657, 2040-2059, miroc_esm, Annual Anomaly, THA
+-0.2388, 2040-2059, mpi_esm_mr, Annual Anomaly, THA
+-0.3085, 2040-2059, mri_cgcm3, Annual Anomaly, THA
+0.20376, 2040-2059, noresm1_m, Annual Anomaly, THA
+-0.903, 2040-2059, access1_3, Annual Anomaly, TLS
+-0.2973, 2040-2059, bcc_csm1_1_m, Annual Anomaly, TLS
+-0.0631, 2040-2059, bcc_csm1_1, Annual Anomaly, TLS
+-0.1136, 2040-2059, bnu_esm, Annual Anomaly, TLS
+-0.0339, 2040-2059, canesm2, Annual Anomaly, TLS
+-0.2192, 2040-2059, ccsm4, Annual Anomaly, TLS
+-0.5119, 2040-2059, cesm1_bgc, Annual Anomaly, TLS
+-0.436, 2040-2059, cesm1_cam5, Annual Anomaly, TLS
+0.34582, 2040-2059, cnrm_cm5, Annual Anomaly, TLS
+-0.3715, 2040-2059, csiro_mk3_6_0, Annual Anomaly, TLS
+0.20445, 2040-2059, gfdl_cm3, Annual Anomaly, TLS
+0.48753, 2040-2059, gfdl_esm2g, Annual Anomaly, TLS
+-0.3096, 2040-2059, gfdl_esm2m, Annual Anomaly, TLS
+0.10708, 2040-2059, inmcm4, Annual Anomaly, TLS
+0.43854, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, TLS
+0.14809, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, TLS
+-0.3055, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, TLS
+0.26794, 2040-2059, miroc5, Annual Anomaly, TLS
+0.04226, 2040-2059, miroc_esm_chem, Annual Anomaly, TLS
+0.18495, 2040-2059, miroc_esm, Annual Anomaly, TLS
+-0.6989, 2040-2059, mpi_esm_mr, Annual Anomaly, TLS
+0.17203, 2040-2059, mri_cgcm3, Annual Anomaly, TLS
+0.50611, 2040-2059, noresm1_m, Annual Anomaly, TLS
+-0.6717, 2040-2059, access1_3, Annual Anomaly, TON
+0.32082, 2040-2059, bcc_csm1_1_m, Annual Anomaly, TON
+0.16569, 2040-2059, bcc_csm1_1, Annual Anomaly, TON
+-0.3246, 2040-2059, bnu_esm, Annual Anomaly, TON
+-0.1389, 2040-2059, canesm2, Annual Anomaly, TON
+-0.0779, 2040-2059, ccsm4, Annual Anomaly, TON
+-0.2688, 2040-2059, cesm1_bgc, Annual Anomaly, TON
+0.09841, 2040-2059, cesm1_cam5, Annual Anomaly, TON
+-0.0046, 2040-2059, cnrm_cm5, Annual Anomaly, TON
+-0.7287, 2040-2059, csiro_mk3_6_0, Annual Anomaly, TON
+0.06329, 2040-2059, gfdl_cm3, Annual Anomaly, TON
+-0.0238, 2040-2059, gfdl_esm2g, Annual Anomaly, TON
+0.19203, 2040-2059, gfdl_esm2m, Annual Anomaly, TON
+-1.0237, 2040-2059, inmcm4, Annual Anomaly, TON
+0.39745, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, TON
+0.8639, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, TON
+-0.1457, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, TON
+0.23972, 2040-2059, miroc5, Annual Anomaly, TON
+-1.2672, 2040-2059, miroc_esm_chem, Annual Anomaly, TON
+-0.9855, 2040-2059, miroc_esm, Annual Anomaly, TON
+-0.0131, 2040-2059, mpi_esm_mr, Annual Anomaly, TON
+0.03626, 2040-2059, mri_cgcm3, Annual Anomaly, TON
+0.0432, 2040-2059, noresm1_m, Annual Anomaly, TON
+-0.2841, 2040-2059, access1_3, Annual Anomaly, TKM
+-1.6931, 2040-2059, bcc_csm1_1_m, Annual Anomaly, TKM
+-1.0015, 2040-2059, bcc_csm1_1, Annual Anomaly, TKM
+-0.9062, 2040-2059, bnu_esm, Annual Anomaly, TKM
+-1.2028, 2040-2059, canesm2, Annual Anomaly, TKM
+-0.7233, 2040-2059, ccsm4, Annual Anomaly, TKM
+-0.8884, 2040-2059, cesm1_bgc, Annual Anomaly, TKM
+-0.3668, 2040-2059, cesm1_cam5, Annual Anomaly, TKM
+-0.0592, 2040-2059, cnrm_cm5, Annual Anomaly, TKM
+-1.8565, 2040-2059, csiro_mk3_6_0, Annual Anomaly, TKM
+-1.386, 2040-2059, gfdl_cm3, Annual Anomaly, TKM
+-1.299, 2040-2059, gfdl_esm2g, Annual Anomaly, TKM
+-0.6413, 2040-2059, gfdl_esm2m, Annual Anomaly, TKM
+-0.1637, 2040-2059, inmcm4, Annual Anomaly, TKM
+-2.5347, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, TKM
+-2.9236, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, TKM
+-1.6926, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, TKM
+-1.1796, 2040-2059, miroc5, Annual Anomaly, TKM
+-1.5102, 2040-2059, miroc_esm_chem, Annual Anomaly, TKM
+-1.5827, 2040-2059, miroc_esm, Annual Anomaly, TKM
+-1.1259, 2040-2059, mpi_esm_mr, Annual Anomaly, TKM
+0.03355, 2040-2059, mri_cgcm3, Annual Anomaly, TKM
+-1.3075, 2040-2059, noresm1_m, Annual Anomaly, TKM
+0.96948, 2040-2059, access1_3, Annual Anomaly, TUV
+0.32371, 2040-2059, bcc_csm1_1_m, Annual Anomaly, TUV
+0.10746, 2040-2059, bcc_csm1_1, Annual Anomaly, TUV
+0.47542, 2040-2059, bnu_esm, Annual Anomaly, TUV
+0.3776, 2040-2059, canesm2, Annual Anomaly, TUV
+-0.2633, 2040-2059, ccsm4, Annual Anomaly, TUV
+-0.1088, 2040-2059, cesm1_bgc, Annual Anomaly, TUV
+-0.0198, 2040-2059, cesm1_cam5, Annual Anomaly, TUV
+-0.3011, 2040-2059, cnrm_cm5, Annual Anomaly, TUV
+1.44906, 2040-2059, csiro_mk3_6_0, Annual Anomaly, TUV
+-0.1519, 2040-2059, gfdl_cm3, Annual Anomaly, TUV
+-0.1953, 2040-2059, gfdl_esm2g, Annual Anomaly, TUV
+-0.0054, 2040-2059, gfdl_esm2m, Annual Anomaly, TUV
+0.37252, 2040-2059, inmcm4, Annual Anomaly, TUV
+0.35596, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, TUV
+-0.3318, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, TUV
+0.41552, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, TUV
+-0.5157, 2040-2059, miroc5, Annual Anomaly, TUV
+-0.301, 2040-2059, miroc_esm_chem, Annual Anomaly, TUV
+-0.494, 2040-2059, miroc_esm, Annual Anomaly, TUV
+0.50495, 2040-2059, mpi_esm_mr, Annual Anomaly, TUV
+-0.6257, 2040-2059, mri_cgcm3, Annual Anomaly, TUV
+-0.2354, 2040-2059, noresm1_m, Annual Anomaly, TUV
+-0.5481, 2040-2059, access1_3, Annual Anomaly, UKR
+0.03809, 2040-2059, bcc_csm1_1_m, Annual Anomaly, UKR
+-0.793, 2040-2059, bcc_csm1_1, Annual Anomaly, UKR
+-0.6914, 2040-2059, bnu_esm, Annual Anomaly, UKR
+-0.1551, 2040-2059, canesm2, Annual Anomaly, UKR
+-0.3908, 2040-2059, ccsm4, Annual Anomaly, UKR
+-0.3956, 2040-2059, cesm1_bgc, Annual Anomaly, UKR
+-0.3574, 2040-2059, cesm1_cam5, Annual Anomaly, UKR
+-0.0013, 2040-2059, cnrm_cm5, Annual Anomaly, UKR
+-0.4282, 2040-2059, csiro_mk3_6_0, Annual Anomaly, UKR
+-0.6946, 2040-2059, gfdl_cm3, Annual Anomaly, UKR
+-0.1052, 2040-2059, gfdl_esm2g, Annual Anomaly, UKR
+-0.5903, 2040-2059, gfdl_esm2m, Annual Anomaly, UKR
+-0.0612, 2040-2059, inmcm4, Annual Anomaly, UKR
+0.18882, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, UKR
+-0.6794, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, UKR
+-0.4835, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, UKR
+-0.8798, 2040-2059, miroc5, Annual Anomaly, UKR
+-0.7969, 2040-2059, miroc_esm_chem, Annual Anomaly, UKR
+-0.2095, 2040-2059, miroc_esm, Annual Anomaly, UKR
+0.06005, 2040-2059, mpi_esm_mr, Annual Anomaly, UKR
+-0.2091, 2040-2059, mri_cgcm3, Annual Anomaly, UKR
+-0.4891, 2040-2059, noresm1_m, Annual Anomaly, UKR
+0.48656, 2040-2059, access1_3, Annual Anomaly, GBR
+0.15778, 2040-2059, bcc_csm1_1_m, Annual Anomaly, GBR
+-0.4876, 2040-2059, bcc_csm1_1, Annual Anomaly, GBR
+0.50482, 2040-2059, bnu_esm, Annual Anomaly, GBR
+-0.1972, 2040-2059, canesm2, Annual Anomaly, GBR
+-0.6601, 2040-2059, ccsm4, Annual Anomaly, GBR
+-0.1034, 2040-2059, cesm1_bgc, Annual Anomaly, GBR
+-0.0038, 2040-2059, cesm1_cam5, Annual Anomaly, GBR
+0.03083, 2040-2059, cnrm_cm5, Annual Anomaly, GBR
+-0.0414, 2040-2059, csiro_mk3_6_0, Annual Anomaly, GBR
+0.18469, 2040-2059, gfdl_cm3, Annual Anomaly, GBR
+-0.293, 2040-2059, gfdl_esm2g, Annual Anomaly, GBR
+-0.0912, 2040-2059, gfdl_esm2m, Annual Anomaly, GBR
+-0.1795, 2040-2059, inmcm4, Annual Anomaly, GBR
+0.07442, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, GBR
+-0.3327, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, GBR
+-0.4441, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, GBR
+-0.4089, 2040-2059, miroc5, Annual Anomaly, GBR
+0.8012, 2040-2059, miroc_esm_chem, Annual Anomaly, GBR
+0.39428, 2040-2059, miroc_esm, Annual Anomaly, GBR
+-0.1893, 2040-2059, mpi_esm_mr, Annual Anomaly, GBR
+-0.4545, 2040-2059, mri_cgcm3, Annual Anomaly, GBR
+-0.0493, 2040-2059, noresm1_m, Annual Anomaly, GBR
+0.08334, 2040-2059, access1_3, Annual Anomaly, USA
+-0.4459, 2040-2059, bcc_csm1_1_m, Annual Anomaly, USA
+-0.57, 2040-2059, bcc_csm1_1, Annual Anomaly, USA
+-0.0787, 2040-2059, bnu_esm, Annual Anomaly, USA
+-0.2549, 2040-2059, canesm2, Annual Anomaly, USA
+-0.2881, 2040-2059, ccsm4, Annual Anomaly, USA
+-0.4532, 2040-2059, cesm1_bgc, Annual Anomaly, USA
+-0.1794, 2040-2059, cesm1_cam5, Annual Anomaly, USA
+0.11513, 2040-2059, cnrm_cm5, Annual Anomaly, USA
+-0.1172, 2040-2059, csiro_mk3_6_0, Annual Anomaly, USA
+0.15193, 2040-2059, gfdl_cm3, Annual Anomaly, USA
+-0.3105, 2040-2059, gfdl_esm2g, Annual Anomaly, USA
+0.04017, 2040-2059, gfdl_esm2m, Annual Anomaly, USA
+0.11612, 2040-2059, inmcm4, Annual Anomaly, USA
+-0.4701, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, USA
+-0.4383, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, USA
+-0.1044, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, USA
+-0.4624, 2040-2059, miroc5, Annual Anomaly, USA
+-0.1064, 2040-2059, miroc_esm_chem, Annual Anomaly, USA
+-0.1902, 2040-2059, miroc_esm, Annual Anomaly, USA
+-6.0E-4, 2040-2059, mpi_esm_mr, Annual Anomaly, USA
+0.10897, 2040-2059, mri_cgcm3, Annual Anomaly, USA
+-0.6557, 2040-2059, noresm1_m, Annual Anomaly, USA
+-1.8546, 2040-2059, access1_3, Annual Anomaly, VEN
+-1.3908, 2040-2059, bcc_csm1_1_m, Annual Anomaly, VEN
+-0.5802, 2040-2059, bcc_csm1_1, Annual Anomaly, VEN
+-0.9812, 2040-2059, bnu_esm, Annual Anomaly, VEN
+-1.5425, 2040-2059, canesm2, Annual Anomaly, VEN
+-0.6364, 2040-2059, ccsm4, Annual Anomaly, VEN
+-0.9686, 2040-2059, cesm1_bgc, Annual Anomaly, VEN
+-1.0619, 2040-2059, cesm1_cam5, Annual Anomaly, VEN
+-0.1645, 2040-2059, cnrm_cm5, Annual Anomaly, VEN
+-0.4881, 2040-2059, csiro_mk3_6_0, Annual Anomaly, VEN
+-1.2318, 2040-2059, gfdl_cm3, Annual Anomaly, VEN
+-0.7478, 2040-2059, gfdl_esm2g, Annual Anomaly, VEN
+-0.0241, 2040-2059, gfdl_esm2m, Annual Anomaly, VEN
+-0.4622, 2040-2059, inmcm4, Annual Anomaly, VEN
+-0.7301, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, VEN
+-0.3453, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, VEN
+-0.3858, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, VEN
+-0.235, 2040-2059, miroc5, Annual Anomaly, VEN
+0.04702, 2040-2059, miroc_esm_chem, Annual Anomaly, VEN
+0.26783, 2040-2059, miroc_esm, Annual Anomaly, VEN
+-0.9111, 2040-2059, mpi_esm_mr, Annual Anomaly, VEN
+-0.047, 2040-2059, mri_cgcm3, Annual Anomaly, VEN
+-1.2969, 2040-2059, noresm1_m, Annual Anomaly, VEN
+-0.5002, 2040-2059, access1_3, Annual Anomaly, VNM
+0.12146, 2040-2059, bcc_csm1_1_m, Annual Anomaly, VNM
+0.03331, 2040-2059, bcc_csm1_1, Annual Anomaly, VNM
+0.0482, 2040-2059, bnu_esm, Annual Anomaly, VNM
+0.15376, 2040-2059, canesm2, Annual Anomaly, VNM
+0.20066, 2040-2059, ccsm4, Annual Anomaly, VNM
+-0.0758, 2040-2059, cesm1_bgc, Annual Anomaly, VNM
+0.03351, 2040-2059, cesm1_cam5, Annual Anomaly, VNM
+0.3289, 2040-2059, cnrm_cm5, Annual Anomaly, VNM
+-0.3303, 2040-2059, csiro_mk3_6_0, Annual Anomaly, VNM
+0.07247, 2040-2059, gfdl_cm3, Annual Anomaly, VNM
+0.42461, 2040-2059, gfdl_esm2g, Annual Anomaly, VNM
+0.22593, 2040-2059, gfdl_esm2m, Annual Anomaly, VNM
+0.3358, 2040-2059, inmcm4, Annual Anomaly, VNM
+0.10497, 2040-2059, ipsl_cm5a_lr, Annual Anomaly, VNM
+0.07545, 2040-2059, ipsl_cm5a_mr, Annual Anomaly, VNM
+-0.017, 2040-2059, ipsl_cm5b_lr, Annual Anomaly, VNM
+0.59535, 2040-2059, miroc5, Annual Anomaly, VNM
+-0.2798, 2040-2059, miroc_esm_chem, Annual Anomaly, VNM
+-0.2972, 2040-2059, miroc_esm, Annual Anomaly, VNM
+-0.0832, 2040-2059, mpi_esm_mr, Annual Anomaly, VNM
+-0.1923, 2040-2059, mri_cgcm3, Annual Anomaly, VNM
+0.18546, 2040-2059, noresm1_m, Annual Anomaly, VNM
+-1.692, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, AND
+-0.9507, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, AND
+-0.191, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, AND
+-1.2016, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ATG
+-0.5276, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ATG
+0.67769, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ATG
+-1.1718, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ARG
+-0.4899, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ARG
+0.30054, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ARG
+-1.6287, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ARM
+-0.776, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ARM
+-0.0813, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ARM
+-0.7415, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, AUT
+-0.3327, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, AUT
+0.24055, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, AUT
+-1.4007, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, AZE
+-0.7528, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, AZE
+-0.0648, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, AZE
+-2.0318, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BHR
+-0.9422, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BHR
+0.10904, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BHR
+-0.7106, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BLR
+-0.0591, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BLR
+0.39006, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BLR
+-0.9061, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BEL
+-0.2415, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BEL
+0.38096, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BEL
+-0.9447, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BEN
+-0.196, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BEN
+0.60103, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BEN
+-1.6134, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BOL
+-0.4807, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BOL
+0.35017, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BOL
+-1.4179, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BWA
+-0.7633, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BWA
+-0.099, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BWA
+-1.1534, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BRA
+-0.3141, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BRA
+0.60305, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BRA
+-0.3216, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BRN
+0.29181, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BRN
+1.16207, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BRN
+-1.1111, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BFA
+-0.1892, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BFA
+0.68925, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BFA
+-0.73, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, BDI
+0.17124, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, BDI
+0.95413, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, BDI
+-0.9056, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, CMR
+0.02087, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, CMR
+0.73401, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, CMR
+-1.9393, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, CPV
+-0.4315, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, CPV
+1.06395, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, CPV
+-0.9125, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, CAF
+-0.0253, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, CAF
+0.56768, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, CAF
+-1.4636, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, CHL
+-0.5931, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, CHL
+0.15188, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, CHL
+-0.9129, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, CHN
+-0.2293, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, CHN
+0.43575, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, CHN
+-0.5079, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, COM
+0.12029, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, COM
+0.66024, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, COM
+-0.8856, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, COD
+-0.0382, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, COD
+0.61623, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, COD
+-1.0716, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, COG
+-0.1108, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, COG
+0.70691, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, COG
+-1.0355, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, CIV
+-0.2815, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, CIV
+0.56332, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, CIV
+-0.6363, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, CZE
+-0.2735, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, CZE
+0.32223, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, CZE
+-0.9042, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, DJI
+-0.1409, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, DJI
+0.62544, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, DJI
+-1.5023, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, DOM
+-0.773, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, DOM
+0.13755, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, DOM
+-1.1232, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ECU
+0.17689, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ECU
+0.87993, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ECU
+-1.7762, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SLV
+-0.6947, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SLV
+-0.0713, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SLV
+-0.7602, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, GNQ
+0.15565, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, GNQ
+0.94062, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, GNQ
+-0.7852, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ETH
+-0.1114, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ETH
+0.97803, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ETH
+-1.2803, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, FRA
+-0.523, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, FRA
+-0.0995, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, FRA
+-1.3102, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, GEO
+-0.5978, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, GEO
+0.15701, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, GEO
+-0.9278, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, GHA
+-0.2488, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, GHA
+0.46754, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, GHA
+-0.5484, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, GRL
+0.15803, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, GRL
+0.96232, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, GRL
+-1.3998, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, GTM
+-0.7358, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, GTM
+-0.0142, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, GTM
+-1.685, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, GUY
+-0.58, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, GUY
+0.71106, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, GUY
+-1.5551, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, HND
+-0.5849, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, HND
+0.02332, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, HND
+-0.3412, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ISL
+0.30234, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ISL
+0.89018, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ISL
+-0.422, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, IDN
+0.1835, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, IDN
+1.12401, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, IDN
+-2.1714, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, IRQ
+-1.1116, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, IRQ
+-0.1249, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, IRQ
+-1.3541, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ITA
+-0.5769, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ITA
+0.00167, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ITA
+-1.3967, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, KAZ
+-0.641, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, KAZ
+0.31298, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, KAZ
+-0.3357, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, PRK
+0.21715, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, PRK
+0.7301, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, PRK
+-2.055, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, LBN
+-1.2109, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, LBN
+-0.3355, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, LBN
+-0.2432, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MYS
+0.2771, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MYS
+1.05138, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MYS
+-0.3168, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MHL
+0.18522, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MHL
+0.6985, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MHL
+-1.9803, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MRT
+-1.0307, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MRT
+0.27953, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MRT
+-1.507, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MEX
+-0.6047, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MEX
+0.06506, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MEX
+-1.2611, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MNG
+-0.5156, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MNG
+0.23302, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MNG
+-2.4663, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MAR
+-1.2478, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MAR
+-0.385, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MAR
+-0.9924, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MOZ
+-0.4158, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MOZ
+0.26578, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MOZ
+-0.3973, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MMR
+0.06355, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MMR
+0.70998, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MMR
+-1.6562, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NAM
+-0.7509, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NAM
+-0.0632, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NAM
+-0.4697, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NPL
+0.1193, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NPL
+0.66371, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NPL
+-0.7271, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NCL
+-0.0682, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NCL
+0.47068, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NCL
+-1.6276, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, NER
+-0.5877, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, NER
+0.40115, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, NER
+-1.7207, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, PAK
+-0.6027, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, PAK
+0.20768, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, PAK
+-1.2337, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, PER
+-0.0821, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, PER
+0.82138, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, PER
+-0.2014, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, PHL
+0.22519, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, PHL
+0.91899, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, PHL
+-0.7341, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, POL
+-0.2237, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, POL
+0.32289, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, POL
+-1.4002, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, PRT
+-0.8264, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, PRT
+-0.2912, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, PRT
+-1.8638, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, QAT
+-0.7477, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, QAT
+0.5919, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, QAT
+-1.621, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, MNE
+-0.8132, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, MNE
+0.00832, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, MNE
+-1.3806, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SRB
+-0.7218, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SRB
+-0.0358, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SRB
+-0.5469, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, RWA
+0.26064, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, RWA
+1.09817, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, RWA
+-1.1839, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, WSM
+0.19487, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, WSM
+0.59317, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, WSM
+-1.7414, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SEN
+-0.7785, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SEN
+0.52006, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SEN
+-0.7335, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SVK
+-0.4277, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SVK
+0.12013, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SVK
+-0.7596, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SOM
+-0.0173, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SOM
+0.70545, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SOM
+-1.588, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ZAF
+-0.8031, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ZAF
+-0.1148, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ZAF
+-1.6, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ESP
+-0.9721, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ESP
+-0.3503, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ESP
+-1.5833, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, VCT
+-0.8081, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, VCT
+0.14187, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, VCT
+-1.5527, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SDN
+-0.6581, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SDN
+0.41618, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SDN
+-1.3555, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SUR
+-0.4421, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SUR
+0.82044, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SUR
+-2.305, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, SYR
+-1.0892, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, SYR
+-0.1874, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, SYR
+-1.5115, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, TJK
+-0.5098, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, TJK
+0.11232, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, TJK
+-0.8571, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, TGO
+-0.2099, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, TGO
+0.53363, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, TGO
+-1.5973, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, TTO
+-0.6095, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, TTO
+-0.0313, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, TTO
+-2.3549, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, TKM
+-1.0774, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, TKM
+-0.1181, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, TKM
+-0.4809, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, TUV
+-0.0111, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, TUV
+0.85031, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, TUV
+-0.6097, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, GBR
+-0.1269, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, GBR
+0.6205, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, GBR
+-0.549, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, URY
+-0.003, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, URY
+0.69864, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, URY
+-2.3842, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, UZB
+-1.0404, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, UZB
+-0.0364, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, UZB
+-1.0041, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ZMB
+-0.4886, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ZMB
+0.15233, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ZMB
+-1.0706, 2040-2059, Ensemble (10th Percentile), Annual Anomaly, ZWE
+-0.5787, 2040-2059, Ensemble (50th Percentile), Annual Anomaly, ZWE
+0.09333, 2040-2059, Ensemble (90th Percentile), Annual Anomaly, ZWE
